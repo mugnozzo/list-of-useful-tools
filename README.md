@@ -1,14 +1,15 @@
 # List of useful tools
 
-This is a list of tools that I find useful.
-
-- Most of them are FLOSS, minimal and follow the KISS rule.
+This is a list of tools that I find useful. Most of them are FLOSS, minimal and follow the KISS rule.
 
 ## file transfer/sync/download
 - [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line
 - [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code available [here](https://github.com/schollz/croc "croc source code on github"))
+- [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
 - [rclone](https://github.com/rclone/rclone "rclone") - Sync files between computers/clouds. It allows you data compression/encryption and multiple cloud spaces union
+- [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 - [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
 
 ## window managers
 - [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
@@ -24,6 +25,9 @@ This is a list of tools that I find useful.
 - [rubberband](https://breakfastquay.com/rubberband/ "rubberband") - Command line tool to time-stretch and pitch-shift audio files
 - [mpv](https://mpv.io/ "mpv") - A really cool and simple media player
 - [sox](https://github.com/chirlu/sox "Sound eXchange") - Sound eXchange, the Swiss Army knife of audio manipulation
+- [mpd](https://www.musicpd.org/ "Music Player Daemon") - flexible, powerful, server-side application for playing music
+- [ncmpc](https://github.com/MusicPlayerDaemon/ncmpc "ncmpc") - curses client for the Music Player Daemon
+- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp "ncmpcpp") - featureful ncurses based MPD client inspired by ncmpc
 - [feh](https://github.com/derf/feh "feh") - Simple, lightweight image viewer
 - [sxiv](https://github.com/xyb3rt/sxiv "sxiv") - Simple, lightweight image viewer
 - [flameshot](https://github.com/flameshot-org/flameshot "flameshot") - A simple but very powerful tool to make screenshots on your PC
@@ -53,6 +57,12 @@ This is a list of tools that I find useful.
 - [jc](https://github.com/kellyjonbrazil/jc "jc") - JSON Convert: convert to JSON the stdout of a lot shell commands and files
 - [jq](https://github.com/stedolan/jq "jq") - JSON processor: process JSON from stdin/file
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
+- pv - linux CLI command to manage the progress of data
+- qrencode - create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
+- xclip - linux CLI command to read/write the clipboards
+
+## browsers
+- links - linux CLI text-based internet browser
 
 ## mail clients
 - [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
@@ -88,6 +98,7 @@ This is a list of tools that I find useful.
 - [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
 - [scribus](https://www.scribus.net/ "scribus") - publishing software
 - [zathura](https://github.com/pwmt/zathura "zathura") - highly customizable document viewer with vi-styled keybindings
+- nmap - scan IP ranges on arbitrary ports and get info on open ports
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps")
