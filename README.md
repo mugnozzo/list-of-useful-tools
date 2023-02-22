@@ -101,9 +101,12 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [scribus](https://www.scribus.net/ "scribus") - publishing software
 - [zathura](https://github.com/pwmt/zathura "zathura") - highly customizable document viewer with vi-styled keybindings
 - nmap - scan IP ranges on arbitrary ports and get info on open ports
+- [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/ "Beautiful Soup") - python library for getting structured data from HTML/XML (good for web scraping) 
+- [wttr.in](https://wttr.in/ "wttr.in") - weather forecast service accessible via CLI ([code/guide/features](https://github.com/chubin/wttr.in "wttr.in on github"))
+- [pyphoon](https://github.com/chubin/pyphoon "pyphoon") - view the Moon phase in ASCII art in your terminal
 
 ## other lists
-- [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps")
-- [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - A curated list of testing software, extensions and resources
+- [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
+- [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - a curated list of testing software, extensions and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#gaming "sindresorhus/awesome") - Awesome stuff lists
 - [commandlinefu.com](https://www.commandlinefu.com/ "commandilnefu.com") - dynamic list of useful CL commands
