@@ -62,7 +62,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - xclip - linux CLI command to read/write the clipboards
 
 ## browsers
-- links - linux CLI text-based internet browser
+- [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
+- [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
+- [librewolf](of Firefox, focused on privacy, security and freedom "librewolf") - fork of Firefox, focused on privacy, security and freedom
 
 ## mail clients
 - [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
