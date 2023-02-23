@@ -76,6 +76,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [dmenu](https://wiki.archlinux.org/title/Dmenu "dmenu") - Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI
 - dmenu2 - Improved dmenu fork
 
+# typing speed testing tools
+- [typespeed] - linux CLI program for testing your typing speed that supports many languages, inclunding some programming languages
+- [monkeytype.com](https://monkeytype.com/ "monkeytype") - website for testing your typing speed in many languages (including programming languages) and getting stats
+
 # screen/kbd/mouse lockers
 - xtrlock - A command that locks your mouse and keyboard leaving the screen visible
 - [slock](https://tools.suckless.org/slock/ "slock") A screen, keyboard and mouselocker made by [suckless](https://suckless.org/ "suckless") team
