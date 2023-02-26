@@ -16,7 +16,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [dwm](https://dwm.suckless.org/ "dwm") - Dynamic Window Manager for X based on tiling and made by [suckless](https://suckless.org/ "suckless") team
 
 ## terminal
-- [st](https://st.suckless.org/ "st") - Simple Terminal for X bade by [suckless](https://suckless.org/ "suckless") team
+- [st](https://st.suckless.org/ "st") - Simple Terminal for X made by [suckless](https://suckless.org/ "suckless") team
 
 ## multimedia/graphics
 - [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
