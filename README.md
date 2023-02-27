@@ -70,25 +70,25 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
 - [aerc](https://aerc-mail.org/ "aerc") - CLI mail client
 
-# fuzzy-search menus
+## fuzzy-search menus
 - [fzf](https://github.com/junegunn/fzf "fzf") - CLI command that read lines from stdin, allow you to find and select one with fuzzy search and print it to stdout
 - [fzy](https://github.com/jhawthorn/fzy "fzy") - Same as fzy but slightly different
 - [dmenu](https://wiki.archlinux.org/title/Dmenu "dmenu") - Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI
 - dmenu2 - Improved dmenu fork
 
-# typing speed testing tools
+## typing speed testing tools
 - [typespeed] - linux CLI program for testing your typing speed that supports many languages, inclunding some programming languages
 - [monkeytype.com](https://monkeytype.com/ "monkeytype") - website for testing your typing speed in many languages (including programming languages) and getting stats
 
-# screen/kbd/mouse lockers
+## screen/kbd/mouse lockers
 - xtrlock - A command that locks your mouse and keyboard leaving the screen visible
 - [slock](https://tools.suckless.org/slock/ "slock") A screen, keyboard and mouselocker made by [suckless](https://suckless.org/ "suckless") team
 
-- [entr](https://github.com/eradman/entr "entr") - file watcher: execs shell scripts when a file changes
+## activity/time trackers/loggers
 - [activitywatch](https://github.com/ActivityWatch/activitywatch "activitywatch") - monitor your activity, collect data and view stats about your life
 - [watson](https://github.com/TailorDev/Watson "watson") - CLI minimal tool to track your time
 
-# android apps or android related stuff
+## android apps or android related stuff
 - [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
 - [tasker](https://tasker.joaoapps.com/ "Tasker") - awesome Android app that lets you run tasks when events are triggered
 - [termux:tasker](https://github.com/termux/termux-tasker "Termux:Tasker") - Tasker plugin to execute termux commands/scripts as activities
@@ -108,6 +108,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/ "Beautiful Soup") - python library for getting structured data from HTML/XML (good for web scraping) 
 - [wttr.in](https://wttr.in/ "wttr.in") - weather forecast service accessible via CLI ([code/guide/features](https://github.com/chubin/wttr.in "wttr.in on github"))
 - [pyphoon](https://github.com/chubin/pyphoon "pyphoon") - view the Moon phase in ASCII art in your terminal
+- [entr](https://github.com/eradman/entr "entr") - file watcher: execs shell scripts when a file changes
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
