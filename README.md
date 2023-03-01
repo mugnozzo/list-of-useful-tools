@@ -99,6 +99,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [telescope](https://github.com/nvim-telescope/telescope.nvim "neovim telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
 - [fugitive](https://github.com/tpope/vim-fugitive) - vim plugin to manage git projects
 
+## stock media
+- [pixabay](https://pixabay.com/ "pixabay") - Royalty-free, downloadable images, videos and music
+
 ## misc
 - [neofetch](https://github.com/dylanaraps/neofetch "neofetch") - CLI tool to get info about your OS
 - [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
