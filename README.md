@@ -112,6 +112,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [wttr.in](https://wttr.in/ "wttr.in") - weather forecast service accessible via CLI ([code/guide/features](https://github.com/chubin/wttr.in "wttr.in on github"))
 - [pyphoon](https://github.com/chubin/pyphoon "pyphoon") - view the Moon phase in ASCII art in your terminal
 - [entr](https://github.com/eradman/entr "entr") - file watcher: execs shell scripts when a file changes
+- [twa](https://github.com/trailofbits/twa "twa") - nice CLI tool to test websites
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
