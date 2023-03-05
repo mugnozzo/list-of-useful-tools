@@ -60,6 +60,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
 - pv - linux CLI command to manage the progress of data
 - qrencode - create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
+- zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
 
 ## browsers
@@ -114,6 +115,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [pyphoon](https://github.com/chubin/pyphoon "pyphoon") - view the Moon phase in ASCII art in your terminal
 - [entr](https://github.com/eradman/entr "entr") - file watcher: execs shell scripts when a file changes
 - [twa](https://github.com/trailofbits/twa "twa") - nice CLI tool to test websites
+
+# languages
+- [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
+- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
