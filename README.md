@@ -10,6 +10,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 - [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
+- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol.
 
 ## window managers
 - [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
