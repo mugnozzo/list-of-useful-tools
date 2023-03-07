@@ -63,6 +63,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
 
+## database
+- sqlite3
+- sqlitebrowser
+- sqliteman
+
 ## browsers
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
