@@ -64,9 +64,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - xclip - linux CLI command to read/write the clipboards
 
 ## database
-- sqlite3
-- sqlitebrowser
-- sqliteman
+- [sqlite](https://www.sqlite.org "sqlite homepage") - a lightweight and fast SQL database engine
+- [sqlitebrowser](https://sqlitebrowser.org/ "sqlitebrowser homepage") - a GUI browser for SQLite databases ([code on github](https://github.com/sqlitebrowser/sqlitebrowser "sqlitebrowser code on github"))
+- sqliteman - a GUI browser for SQLite databases
 
 ## browsers
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
