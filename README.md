@@ -125,6 +125,13 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
 
+## AI/ML and related stuff
+- [chatgpt]
+- [dall-e]
+- [whisper]
+- [phind]
+- [mozilla commonvoice]
+
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
 - [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - a curated list of testing software, extensions and resources
