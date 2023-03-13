@@ -132,6 +132,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [phind]
 - [mozilla commonvoice]
 
+## fonts
+- [https://draculatheme.com/blog/best-free-fonts-for-programming]
+- [https://kinsta.com/blog/best-programming-fonts/]
+
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
 - [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - a curated list of testing software, extensions and resources
