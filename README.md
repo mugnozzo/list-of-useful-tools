@@ -63,10 +63,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
 
-## database
+## database and other data management
 - [sqlite](https://www.sqlite.org "sqlite homepage") - a lightweight and fast SQL database engine
 - [sqlitebrowser](https://sqlitebrowser.org/ "sqlitebrowser homepage") - a GUI browser for SQLite databases ([code on github](https://github.com/sqlitebrowser/sqlitebrowser "sqlitebrowser code on github"))
 - sqliteman - a GUI browser for SQLite databases
+- [redis](https://redis.io/ "redis) - REmote DIctionary Server - an in-memory data structure store
 
 ## browsers
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
@@ -126,15 +127,15 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
 
 ## AI/ML and related stuff
-- [chatgpt]
-- [dall-e]
-- [whisper]
-- [phind]
-- [mozilla commonvoice]
+- [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
+- [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
+- [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
+- [phind](https://www.phind.com/ "phind") - AI search engine
+- [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
 
 ## fonts
-- [https://draculatheme.com/blog/best-free-fonts-for-programming]
-- [https://kinsta.com/blog/best-programming-fonts/]
+- [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
+- [another list of programming fonts](https://kinsta.com/blog/best-programming-font "another list of programming fonts")
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
