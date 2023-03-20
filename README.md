@@ -131,7 +131,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
 - [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
 - [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
-- [phind](https://www.phind.com/ "phind") - AI search engine
+- [phind](https://www.phind.com/ "phind") - AI search engine for developers
 - [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
 
 ## fonts
