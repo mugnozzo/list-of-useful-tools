@@ -67,6 +67,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [sqlite](https://www.sqlite.org "sqlite homepage") - a lightweight and fast SQL database engine
 - [sqlitebrowser](https://sqlitebrowser.org/ "sqlitebrowser homepage") - a GUI browser for SQLite databases ([code on github](https://github.com/sqlitebrowser/sqlitebrowser "sqlitebrowser code on github"))
 - sqliteman - a GUI browser for SQLite databases
+- [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 - [redis](https://redis.io/ "redis) - REmote DIctionary Server - an in-memory data structure store
 
 ## browsers
@@ -137,6 +138,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## fonts
 - [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
 - [another list of programming fonts](https://kinsta.com/blog/best-programming-font "another list of programming fonts")
+
+## games/fun
+- [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
