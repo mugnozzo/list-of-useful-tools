@@ -142,6 +142,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## games/fun
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
+## guides, tutorials, forums and places to get technical help
+- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it.
+- [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
+
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
 - [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - a curated list of testing software, extensions and resources
