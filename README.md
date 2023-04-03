@@ -55,6 +55,8 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [emacs](https://www.gnu.org/software/emacs/ "emacs") - An interactive CLI/GUI text editor
 - [poke](https://www.gnu.org/software/poke/ "GNU Poke") - CLI tool to edit binary files
 - [hexyl](https://github.com/sharkdp/hexyl "hexyl") - CLI hexadecimal viewer
+- [binocle](https://github.com/sharkdp/binocle "binocle") - A graphical tool to visualize binary data
+- [binvis.io](https://binvis.io/ "binvis.io") - An online tool to visualize binary data
 - [jc](https://github.com/kellyjonbrazil/jc "jc") - JSON Convert: convert to JSON the stdout of a lot shell commands and files
 - [jq](https://github.com/stedolan/jq "jq") - JSON processor: process JSON from stdin/file
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
