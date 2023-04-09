@@ -51,6 +51,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [awk](http://awklang.org/ "awk") - CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)
 - [grep](https://www.gnu.org/software/grep/ "grep") - CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)
+- [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor ([code on](https://github.com/neovim/neovim "neovim on github")). It's an improved fork of vim
 - [emacs](https://www.gnu.org/software/emacs/ "emacs") - An interactive CLI/GUI text editor
 - [poke](https://www.gnu.org/software/poke/ "GNU Poke") - CLI tool to edit binary files
