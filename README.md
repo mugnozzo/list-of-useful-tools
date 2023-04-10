@@ -142,6 +142,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
 - [another list of programming fonts](https://kinsta.com/blog/best-programming-font "another list of programming fonts")
 
+## linux distros
+[arch linux](https://archlinux.org/ "arch linux") - A bleeding edge, minimall, KISS distro
+[tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
+
 ## games/fun
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
