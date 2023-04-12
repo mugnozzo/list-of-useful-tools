@@ -127,6 +127,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [twa](https://github.com/trailofbits/twa "twa") - nice CLI tool to test websites
 - [haveibeenpwned.com](https://haveibeenpwned.com/ "haveibeenpwned.com") - A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach
 - [RSSHub](https://github.com/DIYgod/RSSHub "RSSHub") - A tool to generate RSS feed from pretty much everything
+- [dotfyle.com](https://dotfyle.com/ "dotfyle.com") - A website where you can share your neovim dotfiles with the community
 
 # languages
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
