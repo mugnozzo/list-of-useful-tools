@@ -18,6 +18,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## terminal
 - [st](https://st.suckless.org/ "st") - Simple Terminal for X made by [suckless](https://suckless.org/ "suckless") team
+- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
 
 ## multimedia/graphics
 - [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
@@ -116,7 +117,6 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## misc
 - [neofetch](https://github.com/dylanaraps/neofetch "neofetch") - CLI tool to get info about your OS
-- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
 - [scribus](https://www.scribus.net/ "scribus") - publishing software
 - [zathura](https://github.com/pwmt/zathura "zathura") - highly customizable document viewer with vi-styled keybindings
 - nmap - scan IP ranges on arbitrary ports and get info on open ports
