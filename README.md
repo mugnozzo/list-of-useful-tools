@@ -10,7 +10,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 - [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
-- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol.
+- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
 
 ## window managers
 - [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
@@ -132,7 +132,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 # languages
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
-- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones.
+- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
 
 ## AI/ML and related stuff
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
@@ -153,7 +153,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
 ## guides, tutorials, forums and places to get technical help
-- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it.
+- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it
 - [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
 
 ## other lists
