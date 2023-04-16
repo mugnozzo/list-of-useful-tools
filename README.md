@@ -133,6 +133,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
 - [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
+- [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody
 
 ## AI/ML and related stuff
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
