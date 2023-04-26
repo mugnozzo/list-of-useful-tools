@@ -2,53 +2,34 @@
 
 This is a list of tools that I find useful. Most of them are FLOSS, minimal and follow the KISS rule.
 
-## file transfer/sync/download
-- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line
-- [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code available [here](https://github.com/schollz/croc "croc source code on github"))
-- [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
-- [rclone](https://github.com/rclone/rclone "rclone") - Sync files between computers/clouds. It allows you data compression/encryption and multiple cloud spaces union
-- [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
-- [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
-- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
-
-## window managers
-- [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
-- [dwm](https://dwm.suckless.org/ "dwm") - Dynamic Window Manager for X based on tiling and made by [suckless](https://suckless.org/ "suckless") team
-
-## terminal
-- [st](https://st.suckless.org/ "st") - Simple Terminal for X made by [suckless](https://suckless.org/ "suckless") team
-- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
-
-## multimedia/graphics
-- [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
-- [ffmpeg](https://ffmpeg.org/ "ffmpeg") - Command line tool to manage/convert video/audio/subtitles streams
-- [imagemagick](https://imagemagick.org/ "imagemagick") - Command line tool to convert images
-- [rubberband](https://breakfastquay.com/rubberband/ "rubberband") - Command line tool to time-stretch and pitch-shift audio files
-- [mpv](https://mpv.io/ "mpv") - A really cool and simple media player
-- [sox](https://github.com/chirlu/sox "Sound eXchange") - Sound eXchange, the Swiss Army knife of audio manipulation
-- [mpd](https://www.musicpd.org/ "Music Player Daemon") - flexible, powerful, server-side application for playing music
-- [ncmpc](https://github.com/MusicPlayerDaemon/ncmpc "ncmpc") - curses client for the Music Player Daemon
-- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp "ncmpcpp") - featureful ncurses based MPD client inspired by ncmpc
-- [feh](https://github.com/derf/feh "feh") - Simple, lightweight image viewer
-- [sxiv](https://github.com/xyb3rt/sxiv "sxiv") - Simple, lightweight image viewer
-- [flameshot](https://github.com/flameshot-org/flameshot "flameshot") - A simple but very powerful tool to make screenshots on your PC
-- [gimp](https://www.gimp.org/ "GNU Image Manipulation Program") - Advanced GUI image editor
-- [inkscape](https://inkscape.org/ "Inkscape") - vector graphics editor
-
 ## 3d
 - [blender](https://blender.org "Blender") - Advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc...
 - [freecad](https://www.freecad.org/ "FreeCAD") - 3d parametric modeling software
 
-## navigate through directories in CLI
-- [ranger](https://ranger.github.io/ "ranger") - Command line file manager
-- [midnight commander](https://midnight-commander.org/ "midnight commander") - Command line, orthodox file manager
-- [vifm](https://github.com/vifm/vifm "vifm") - Command line file manager
-- [fasd](https://github.com/clvv/fasd "fasd") - Smart command to jump quickly to a directory, based on "frecency"
-- [zoxide](https://github.com/ajeetdsouza/zoxide "zoxide") - Smart command to jump quickly to a directory, based on "frecency"
-- [broot](https://github.com/Canop/broot "broot") - CLI tool to have a tree view of a folder and its subfolder. provides fuzzy search and a command to change directory
+## activity/time trackers/loggers
+- [activitywatch](https://github.com/ActivityWatch/activitywatch "activitywatch") - monitor your activity, collect data and view stats about your life
+- [watson](https://github.com/TailorDev/Watson "watson") - CLI minimal tool to track your time
 
-## manipulate data streams, text and text files
+## AI/ML and related stuff
+- [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
+- [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
+- [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
+- [phind](https://www.phind.com/ "phind") - AI search engine for developers
+- [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
+
+## android apps or android related stuff
+- [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
+- [tasker](https://tasker.joaoapps.com/ "Tasker") - awesome Android app that lets you run tasks when events are triggered
+- [termux:tasker](https://github.com/termux/termux-tasker "Termux:Tasker") - Tasker plugin to execute termux commands/scripts as activities
+- [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") - app to listen music on your smartphone ([free](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") and [paid](https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex "Black Player EX") versions available)
+- [scrcpy](https://github.com/Genymobile/scrcpy "Screen Copy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
+
+## browsers
+- [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
+- [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
+- [librewolf](of Firefox, focused on privacy, security and freedom "librewolf") - fork of Firefox, focused on privacy, security and freedom
+
+## data streams, text and text files manipulation
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [awk](http://awklang.org/ "awk") - CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)
 - [grep](https://www.gnu.org/software/grep/ "grep") - CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)
@@ -74,14 +55,19 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 - [redis](https://redis.io/ "redis) - REmote DIctionary Server - an in-memory data structure store
 
-## browsers
-- [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
-- [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
-- [librewolf](of Firefox, focused on privacy, security and freedom "librewolf") - fork of Firefox, focused on privacy, security and freedom
+## file transfer/sync/download
+- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line
+- [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code available [here](https://github.com/schollz/croc "croc source code on github"))
+- [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
+- [rclone](https://github.com/rclone/rclone "rclone") - Sync files between computers/clouds. It allows you data compression/encryption and multiple cloud spaces union
+- [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
+- [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
+- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
 
-## mail clients
-- [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
-- [aerc](https://aerc-mail.org/ "aerc") - CLI mail client
+## fonts
+- [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
+- [another list of programming fonts](https://kinsta.com/blog/best-programming-font "another list of programming fonts")
 
 ## fuzzy-search menus
 - [fzf](https://github.com/junegunn/fzf "fzf") - CLI command that read lines from stdin, allow you to find and select one with fuzzy search and print it to stdout
@@ -89,31 +75,26 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [dmenu](https://wiki.archlinux.org/title/Dmenu "dmenu") - Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI
 - dmenu2 - Improved dmenu fork
 
-## typing speed testing tools
-- [typespeed] - linux CLI program for testing your typing speed that supports many languages, inclunding some programming languages
-- [monkeytype.com](https://monkeytype.com/ "monkeytype") - website for testing your typing speed in many languages (including programming languages) and getting stats
+## games/fun
+- [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
-## screen/kbd/mouse lockers
-- xtrlock - A command that locks your mouse and keyboard leaving the screen visible
-- [slock](https://tools.suckless.org/slock/ "slock") A screen, keyboard and mouselocker made by [suckless](https://suckless.org/ "suckless") team
+## guides, tutorials, forums and places to get technical help
+- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it
+- [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
 
-## activity/time trackers/loggers
-- [activitywatch](https://github.com/ActivityWatch/activitywatch "activitywatch") - monitor your activity, collect data and view stats about your life
-- [watson](https://github.com/TailorDev/Watson "watson") - CLI minimal tool to track your time
+# languages
+- [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
+- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
+- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
+- [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody
 
-## android apps or android related stuff
-- [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
-- [tasker](https://tasker.joaoapps.com/ "Tasker") - awesome Android app that lets you run tasks when events are triggered
-- [termux:tasker](https://github.com/termux/termux-tasker "Termux:Tasker") - Tasker plugin to execute termux commands/scripts as activities
-- [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") - app to listen music on your smartphone ([free](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") and [paid](https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex "Black Player EX") versions available)
-- [scrcpy](https://github.com/Genymobile/scrcpy "Screen Copy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
+## linux distros
+- [arch linux](https://archlinux.org/ "arch linux") - A bleeding edge, minimall, KISS distro
+- [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
 
-## (neo)vim plugins
-- [telescope](https://github.com/nvim-telescope/telescope.nvim "neovim telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
-- [fugitive](https://github.com/tpope/vim-fugitive) - vim plugin to manage git projects
-
-## stock media
-- [pixabay](https://pixabay.com/ "pixabay") - Royalty-free, downloadable images, videos and music
+## mail clients
+- [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
+- [aerc](https://aerc-mail.org/ "aerc") - CLI mail client
 
 ## misc
 - [neofetch](https://github.com/dylanaraps/neofetch "neofetch") - CLI tool to get info about your OS
@@ -129,36 +110,55 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [RSSHub](https://github.com/DIYgod/RSSHub "RSSHub") - A tool to generate RSS feed from pretty much everything
 - [dotfyle.com](https://dotfyle.com/ "dotfyle.com") - A website where you can share your neovim dotfiles with the community
 
-# languages
-- [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
-- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
-- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
-- [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody
+## multimedia/graphics
+- [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
+- [ffmpeg](https://ffmpeg.org/ "ffmpeg") - Command line tool to manage/convert video/audio/subtitles streams
+- [imagemagick](https://imagemagick.org/ "imagemagick") - Command line tool to convert images
+- [rubberband](https://breakfastquay.com/rubberband/ "rubberband") - Command line tool to time-stretch and pitch-shift audio files
+- [mpv](https://mpv.io/ "mpv") - A really cool and simple media player
+- [sox](https://github.com/chirlu/sox "Sound eXchange") - Sound eXchange, the Swiss Army knife of audio manipulation
+- [mpd](https://www.musicpd.org/ "Music Player Daemon") - flexible, powerful, server-side application for playing music
+- [ncmpc](https://github.com/MusicPlayerDaemon/ncmpc "ncmpc") - curses client for the Music Player Daemon
+- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp "ncmpcpp") - featureful ncurses based MPD client inspired by ncmpc
+- [feh](https://github.com/derf/feh "feh") - Simple, lightweight image viewer
+- [sxiv](https://github.com/xyb3rt/sxiv "sxiv") - Simple, lightweight image viewer
+- [flameshot](https://github.com/flameshot-org/flameshot "flameshot") - A simple but very powerful tool to make screenshots on your PC
+- [gimp](https://www.gimp.org/ "GNU Image Manipulation Program") - Advanced GUI image editor
+- [inkscape](https://inkscape.org/ "Inkscape") - vector graphics editor
 
-## AI/ML and related stuff
-- [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
-- [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
-- [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
-- [phind](https://www.phind.com/ "phind") - AI search engine for developers
-- [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
-
-## fonts
-- [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
-- [another list of programming fonts](https://kinsta.com/blog/best-programming-font "another list of programming fonts")
-
-## linux distros
-- [arch linux](https://archlinux.org/ "arch linux") - A bleeding edge, minimall, KISS distro
-- [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
-
-## games/fun
-- [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
-
-## guides, tutorials, forums and places to get technical help
-- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it
-- [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
+## navigate through directories in CLI
+- [ranger](https://ranger.github.io/ "ranger") - Command line file manager
+- [midnight commander](https://midnight-commander.org/ "midnight commander") - Command line, orthodox file manager
+- [vifm](https://github.com/vifm/vifm "vifm") - Command line file manager
+- [fasd](https://github.com/clvv/fasd "fasd") - Smart command to jump quickly to a directory, based on "frecency"
+- [zoxide](https://github.com/ajeetdsouza/zoxide "zoxide") - Smart command to jump quickly to a directory, based on "frecency"
+- [broot](https://github.com/Canop/broot "broot") - CLI tool to have a tree view of a folder and its subfolder. provides fuzzy search and a command to change directory
 
 ## other lists
 - [awesome command line apps](https://git.herrbischoff.com/awesome-command-line-apps/about/ "awesome command-line apps") - a list of awesome apps that are reachable from CLI
 - [awesome testing](https://github.com/TheJambo/awesome-testing "awesome testing") - a curated list of testing software, extensions and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#gaming "sindresorhus/awesome") - Awesome stuff lists
 - [commandlinefu.com](https://www.commandlinefu.com/ "commandilnefu.com") - dynamic list of useful CL commands
+
+## screen/kbd/mouse lockers
+- xtrlock - A command that locks your mouse and keyboard leaving the screen visible
+- [slock](https://tools.suckless.org/slock/ "slock") A screen, keyboard and mouselocker made by [suckless](https://suckless.org/ "suckless") team
+
+## stock media
+- [pixabay](https://pixabay.com/ "pixabay") - Royalty-free, downloadable images, videos and music
+
+## terminal
+- [st](https://st.suckless.org/ "st") - Simple Terminal for X made by [suckless](https://suckless.org/ "suckless") team
+- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
+
+## typing speed testing tools
+- [typespeed] - linux CLI program for testing your typing speed that supports many languages, inclunding some programming languages
+- [monkeytype.com](https://monkeytype.com/ "monkeytype") - website for testing your typing speed in many languages (including programming languages) and getting stats
+
+## (neo)vim plugins
+- [telescope](https://github.com/nvim-telescope/telescope.nvim "neovim telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
+- [fugitive](https://github.com/tpope/vim-fugitive) - vim plugin to manage git projects
+
+## window managers
+- [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
+- [dwm](https://dwm.suckless.org/ "dwm") - Dynamic Window Manager for X based on tiling and made by [suckless](https://suckless.org/ "suckless") team
