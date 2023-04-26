@@ -159,6 +159,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [telescope](https://github.com/nvim-telescope/telescope.nvim "neovim telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
 - [fugitive](https://github.com/tpope/vim-fugitive) - vim plugin to manage git projects
 
+## VPN services
+- [protonvpn](https://protonvpn.com/ "protonvpn") - vpn service offered by Proton AG
+- [mullvad](https://mullvad.net/ "mullvad") - vpn service base in Sweden. You can pay with several methods, including cryptocurrencies and cash
+
 ## window managers
 - [i3](https://github.com/i3/i3 "i3") - A window manager based on tiling
 - [dwm](https://dwm.suckless.org/ "dwm") - Dynamic Window Manager for X based on tiling and made by [suckless](https://suckless.org/ "suckless") team
