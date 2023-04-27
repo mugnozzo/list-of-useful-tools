@@ -24,6 +24,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") - app to listen music on your smartphone ([free](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "Black Player Free") and [paid](https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex "Black Player EX") versions available)
 - [scrcpy](https://github.com/Genymobile/scrcpy "Screen Copy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
 
+## articles/guides/tutorials
+- [ssh tunnels](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ "ssh tunnels") - an article which explain how the 3 types of tunnels work and how to use them
+
 ## browsers
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
