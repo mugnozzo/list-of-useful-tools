@@ -26,6 +26,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## articles/guides/tutorials
 - [ssh tunnels](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ "ssh tunnels") - an article which explain how the 3 types of tunnels work and how to use them
+- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it
+- [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
+
 
 ## browsers
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
@@ -80,10 +83,6 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## games/fun
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
-
-## guides, tutorials, forums and places to get technical help
-- [stackexchange](https://stackexchange.com/ "stackexchange") - Well, I'm sure you already know it
-- [grymoire](https://grymoire.com/ "grymoire") - A minimal website with some interesting guides about tools like grep, sed, awk, ...
 
 # languages
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
