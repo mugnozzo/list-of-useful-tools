@@ -54,6 +54,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
 
+## number crunching
+- [octave](https://octave.org/ "GNU Octave") - scientific programming language
+
 ## database and other data management
 - [sqlite](https://www.sqlite.org "sqlite homepage") - a lightweight and fast SQL database engine
 - [sqlitebrowser](https://sqlitebrowser.org/ "sqlitebrowser homepage") - a GUI browser for SQLite databases ([code on github](https://github.com/sqlitebrowser/sqlitebrowser "sqlitebrowser code on github"))
