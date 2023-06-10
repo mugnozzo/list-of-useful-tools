@@ -64,8 +64,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 - [redis](https://redis.io/ "redis) - REmote DIctionary Server - an in-memory data structure store
 
-## file transfer/sync/download
-- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line
+## data transfer/sync/download
+- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line or browser (code on github [here](https://github.com/dutchcoders/transfer.sh "transfer.sh code") and [here](https://github.com/dutchcoders/transfer.sh-web "transfer.sh web frontend")) **(temporarily down, they're working on it - [see issue here](https://github.com/dutchcoders/transfer.sh/issues/556))**
+- [temp.sh](https://temp.sh/ "temp.sh") - Online tool to transfer files from/to command line or browser
 - [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code available [here](https://github.com/schollz/croc "croc source code on github"))
 - [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
 - [rclone](https://github.com/rclone/rclone "rclone") - Sync files between computers/clouds. It allows you data compression/encryption and multiple cloud spaces union
@@ -73,6 +74,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [aria2](https://github.com/aria2/aria2 "aria2") - Client to download files supporting several protocols (including bittorrent)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl "youtube-dl")
 - [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
+- [termbin.com](https://termbin.com/ "termbin.com") - pastebin accessible via shell ([code here](https://github.com/solusipse/fiche))
 
 ## fonts
 - [a list of free fonts for programming](https://draculatheme.com/blog/best-free-fonts-for-programming "a list of free fonts for programming")
