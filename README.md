@@ -94,9 +94,10 @@ Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
 ## languages
 ### general language resources
 #### free
-- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
-- [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody
+- [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existing ones
+- [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody (there is a forum too)
 - [refold] - a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency
+- [word reference](https://www.wordreference.com/ "word reference") - An online dictionary (there is a forum too)
 #### paid (some are partially free)
 - [pimsleur] - a method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation
 - [assimil] - a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons
