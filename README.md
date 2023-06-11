@@ -2,6 +2,8 @@
 
 This is a list of tools that I find useful. Most of them are FLOSS, minimal and follow the KISS rule.
 
+Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
+
 ## 3d
 - [blender](https://blender.org "Blender") - Advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc...
 - [freecad](https://www.freecad.org/ "FreeCAD") - 3d parametric modeling software
@@ -90,10 +92,22 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
 ## languages
-- [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
-- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
+### general language resources
+#### free
 - [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
 - [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody
+- [refold] - a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency
+#### paid (some are partially free)
+- [pimsleur] - a method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation
+- [assimil] - a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons
+- [speakly] - a method/website/app to learn foreign languages (it currently has 8 languages available) by learning the 4000 most frequent words/expressions/sentences in the target languages with listening/speaking/flashcard exercises
+### resources for specific languages
+#### lojban
+- [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
+- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
+#### icelandic
+- [bín](https://bin.arnastofnun.is/ "Beygingarlýsing íslensks nútímamáls") - A section of arnastofnun where you can search words and find declensions and conjugations
+- [stofnun árna magnússonar](https://arnastofnun.is "Stofnun Árna Magnússonar") - Árna Magnússon's Foundation for Icelandic Studies
 
 ## linux distros
 - [arch linux](https://archlinux.org/ "arch linux") - A bleeding edge, minimall, KISS distro
