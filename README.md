@@ -89,7 +89,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## games/fun
 - [vimgolf](https://www.vimgolf.com/ "vimgolf") - A game/challenge where you have to do tasks in vim using as few keystrokes as possible
 
-# languages
+## languages
 - [lojban.org](https://mw.lojban.org/ "Official Lojban website") - Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban onlyne dictionary (code [here](https://github.com/La-Lojban/sutysisku/ "la sutysisku - GitHub))
 - [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existent ones
