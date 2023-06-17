@@ -52,7 +52,8 @@ Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
 - [jq](https://github.com/stedolan/jq "jq") - JSON processor: process JSON from stdin/file
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
 - pv - linux CLI command to manage the progress of data
-- qrencode - create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
+- barcode - linux CLI tool to create barcodes and save them in various formats
+- qrencode - linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
 - zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
 
