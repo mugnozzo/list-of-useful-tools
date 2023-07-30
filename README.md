@@ -56,6 +56,7 @@ Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
 - qrencode - linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
 - zbar - linux CLI application and library for reading bar codes from cameras and images
 - xclip - linux CLI command to read/write the clipboards
+- [ghostwriter](https://github.com/KDE/ghostwriter "ghostwriter") - An editor for markdown files
 
 ## number crunching
 - [octave](https://octave.org/ "GNU Octave") - scientific programming language
