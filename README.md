@@ -2,8 +2,6 @@
 
 This is a list of tools that I find useful. Most of them are FLOSS, minimal and follow the KISS rule.
 
-Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
-
 ## 3d
 - [blender](https://blender.org "Blender") - Advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc...
 - [freecad](https://www.freecad.org/ "FreeCAD") - 3d parametric modeling software
