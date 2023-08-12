@@ -58,6 +58,9 @@ Last update: 2023-06-11 - 21:53:20 CET (UTC + 2)
 - xclip - linux CLI command to read/write the clipboards
 - [ghostwriter](https://github.com/KDE/ghostwriter "ghostwriter") - An editor for markdown files
 
+## maps, terrains and other geo stuff
+- [gpsvisualizer.com](https://www.gpsvisualizer.com/ "gpsvisualizer.com") - A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...
+
 ## number crunching
 - [octave](https://octave.org/ "GNU Octave") - scientific programming language
 
