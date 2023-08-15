@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Mugnozzo - List of useful tools</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+
+		<div>
+			<div class="selected-tags" id="selectedTags"></div>
+			<input type="text" id="searchInput" placeholder="Search by name, description or tags..." onkeyup="filterElements()">
+			<input type="checkbox" id="fuzzySearch" onchange="filterElements()"> Fuzzy Search
+			<div id="allTags"></div>
+			<ul id="results"></ul>
+		</div>
+
+		<script src="data.js"></script>
+		<script src="script.js"></script>
+	</body>
+
+</html>
