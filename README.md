@@ -67,10 +67,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [sqlitebrowser](https://sqlitebrowser.org/ "sqlitebrowser homepage") - a GUI browser for SQLite databases ([code on github](https://github.com/sqlitebrowser/sqlitebrowser "sqlitebrowser code on github"))
 - sqliteman - a GUI browser for SQLite databases
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
-- [redis](https://redis.io/ "redis) - REmote DIctionary Server - an in-memory data structure store
+- [redis](https://redis.io/ "redis") - REmote DIctionary Server - an in-memory data structure store
 
 ## data transfer/sync/download
-- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line or browser (code on github [here](https://github.com/dutchcoders/transfer.sh "transfer.sh code") and [here](https://github.com/dutchcoders/transfer.sh-web "transfer.sh web frontend")) **(temporarily down, they're working on it - [see issue here](https://github.com/dutchcoders/transfer.sh/issues/556))**
+- [transfer.sh](https://transfer.sh "transfer.sh") - Online tool to transfer files from/to command line or browser (code on github [here](https://github.com/dutchcoders/transfer.sh "transfer.sh code") and [here](https://github.com/dutchcoders/transfer.sh-web "transfer.sh web frontend"))
 - [temp.sh](https://temp.sh/ "temp.sh") - Online tool to transfer files from/to command line or browser
 - [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code available [here](https://github.com/schollz/croc "croc source code on github"))
 - [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
@@ -182,7 +182,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## (neo)vim plugins
 - [telescope](https://github.com/nvim-telescope/telescope.nvim "neovim telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
-- [fugitive](https://github.com/tpope/vim-fugitive) - vim plugin to manage git projects
+- [fugitive](https://github.com/tpope/vim-fugitive "fugitive") - vim plugin to manage git projects
 
 ## VPN services
 - [protonvpn](https://protonvpn.com/ "protonvpn") - vpn service offered by Proton AG
