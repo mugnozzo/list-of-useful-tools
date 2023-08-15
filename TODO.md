@@ -1,6 +1,6 @@
 # TODO
 
 - add tags
-- recheck formatting
+- improve style
 - recheck all links and missing ones
 - add topster

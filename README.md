@@ -1,5 +1,8 @@
 # List of useful tools
 
+**AS 2023-08-16 THE HTML VERSION OF THIS LIST IS AVAILABLE [HERE](https://mugnozzo.xyz/list-of-useful-tools "List of useful tools") WITH TAGS AND FUZZY SEARCH.
+I STILL HAVE TO SET THE TAGS ON THE NEW VERSION.**
+
 This is a list of tools that I find useful. Most of them are FLOSS, minimal and follow the KISS rule.
 
 ## 3d
