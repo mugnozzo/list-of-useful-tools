@@ -6,3 +6,4 @@
 - add topster
 - add title on website
 - add info on how to use website
+- add alphabetical sort
