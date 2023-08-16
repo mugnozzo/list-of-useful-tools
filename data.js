@@ -3,49 +3,49 @@ const elements = [
 		name:'blender',
 		url:'https://blender.org',
 		description:'Advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc...',
-		tags:['3d','3d modeling']
+		tags:['3d','3d modeling','FLOSS','3d rigging','3d animation','3d rendering','free of charge']
 	},
 	{
 		name:'freecad',
 		url:'https://www.freecad.org/',
 		description:'3d parametric modeling software',
-		tags:[]
+		tags:['3d','3d modeling','parametric modeling','CAD','free of charge']
 	},
 	{
 		name:'activitywatch',
 		url:'https://github.com/ActivityWatch/activitywatch',
 		description:'monitor your activity, collect data and view stats about your life',
-		tags:[]
+		tags:['watcher','work-tool','free of charge']
 	},
 	{
 		name:'watson',
 		url:'https://github.com/TailorDev/Watson',
 		description:'CLI minimal tool to track your time',
-		tags:[]
+		tags:['CLI','time tracker','work-tool','free of charge']
 	},
 	{
 		name:'chatgpt',
 		url:'https://chat.openai.com/',
 		description:'artificial intelligence chatbot',
-		tags:[]
+		tags:['AI','chat bot','free or paid']
 	},
 	{
 		name:'dall-e',
 		url:'https://labs.openai.com/',
 		description:'deep learning model to generate images from a text description',
-		tags:[]
+		tags:['AI','image generation','free or paid']
 	},
 	{
 		name:'whisper',
 		url:'https://openai.com/research/whisper',
 		description:'neural net for speech recognition',
-		tags:[]
+		tags:['AI','free of charge','speech-to-text']
 	},
 	{
 		name:'phind',
 		url:'https://www.phind.com/',
 		description:'AI search engine for developers',
-		tags:[]
+		tags:['ai','search engine']
 	},
 	{
 		name:'mozilla common voice',
@@ -57,79 +57,79 @@ const elements = [
 		name:'termux',
 		url:'https://github.com/termux/termux-app',
 		description:'emulate a Linux CLI on your Android smartphone',
-		tags:[]
+		tags:['mobile app','CLI','terminal','free or paid']
 	},
 	{
 		name:'tasker',
 		url:'https://tasker.joaoapps.com/',
 		description:'awesome Android app that lets you run tasks when events are triggered',
-		tags:[]
+		tags:['app','free or paid']
 	},
 	{
 		name:'termux:tasker',
 		url:'https://github.com/termux/termux-tasker',
 		description:'Tasker plugin to execute termux commands/scripts as activities',
-		tags:[]
+		tags:['paid']
 	},
 	{
 		name:'black player',
 		url:'https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree',
 		description:'app to listen music on your smartphone (<a href="https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree" target="blackplayer_new" alt="Black Player Free">free</a> and <a href="https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex" target="blackplayer_paid_new"alt="Black Player EX">paid</a> versions available)',
-		tags:[]
+		tags:['app','free or paid','music','music player']
 	},
 	{
 		name:'scrcpy',
 		url:'https://github.com/Genymobile/scrcpy',
 		description:'a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse',
-		tags:[]
+		tags:['app','android','linux','FLOSS']
 	},
 	{
 		name:'ssh tunnels',
 		url:'https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/',
 		description:'an article which explain how the 3 types of tunnels work and how to use them',
-		tags:[]
+		tags:['ssh']
 	},
 	{
 		name:'stackexchange',
 		url:'https://stackexchange.com/',
 		description:'Well, I\'m sure you already know it',
-		tags:[]
+		tags:['website','help']
 	},
 	{
 		name:'grymoire',
 		url:'https://grymoire.com/',
 		description:'A minimal website with some interesting guides about tools like grep, sed, awk, ...',
-		tags:[]
+		tags:['website','guide']
 	},
 	{
 		name:'links',
 		url:'http://links.twibright.com/',
 		description:'linux CLI text-based internet browser',
-		tags:[]
+		tags:['web browser','CLI','linux','FLOSS']
 	},
 	{
 		name:'qutebrowser',
 		url:'https://qutebrowser.org/',
 		description:'minimal, vim-oriented browser',
-		tags:[]
+		tags:['web browser','vim oriented','FLOSS']
 	},
 	{
 		name:'librewolf',
-		url:'of Firefox, focused on privacy, security and freedom',
+		url:'https://librewolf.net/',
 		description:'fork of Firefox, focused on privacy, security and freedom',
-		tags:[]
+		tags:['firefox','web browser','FLOSS']
 	},
 	{
 		name:'sed',
 		url:'https://www.gnu.org/software/sed/',
 		description:'Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions',
-		tags:[]
+		tags:['text manipulation','FLOSS','linux','CLI']
 	},
 	{
 		name:'awk',
 		url:'http://awklang.org/',
 		description:'CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)',
-		tags:[]
+		tags:['text manipulation','FLOSS','linux','CLI']
 	},
 	{
 		name:'grep',
