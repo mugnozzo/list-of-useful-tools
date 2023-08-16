@@ -135,37 +135,37 @@ const elements = [
 		name:'grep',
 		url:'https://www.gnu.org/software/grep/',
 		description:'CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)',
-		tags:[]
+		tags:['text manipulation','FLOSS','linux','CLI']
 	},
 	{
 		name:'ripgrep',
 		url:'https://github.com/BurntSushi/ripgrep',
 		description:'Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern',
-		tags:[]
+		tags:['text manipulation','FLOSS','linux','CLI']
 	},
 	{
 		name:'neovim',
 		url:'https://neovim.io/',
 		description:'CLI advanced but very lightweight and simple text editor (<a href="https://github.com/neovim/neovim" target="neovim_github_new" alt="neovim on github">code on github</a>). It\'s an improved fork of vim',
-		tags:[]
+		tags:['IDE','text editor','FLOSS','no GUI']
 	},
 	{
 		name:'emacs',
 		url:'https://www.gnu.org/software/emacs/',
 		description:'An interactive CLI/GUI text editor',
-		tags:[]
+		tags:['IDE','text editor','FLOSS']
 	},
 	{
 		name:'poke',
 		url:'https://www.gnu.org/software/poke/',
 		description:'CLI tool to edit binary files',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'hexyl',
 		url:'https://github.com/sharkdp/hexyl',
 		description:'CLI hexadecimal viewer',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'binocle',
@@ -183,91 +183,91 @@ const elements = [
 		name:'jc',
 		url:'https://github.com/kellyjonbrazil/jc',
 		description:'JSON Convert: convert to JSON the stdout of a lot shell commands and files',
-		tags:[]
+		tags:['JSON','CLI']
 	},
 	{
 		name:'jq',
 		url:'https://github.com/stedolan/jq',
 		description:'JSON processor: process JSON from stdin/file',
-		tags:[]
+		tags:['JSON','CLI']
 	},
 	{
 		name:'ttyplot',
 		url:'https://github.com/tenox7/ttyplot',
 		description:'ASCII-based CLI tool that plots data from stdin',
-		tags:[]
+		tags:['CLI','FLOSS']
 	},
 	{
 		name:'pv',
 		url:'',
 		description:'linux CLI command to manage the progress of data',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'barcode',
 		url:'',
 		description:'linux CLI tool to create barcodes and save them in various formats',
-		tags:[]
+		tags:['CLI','barcode']
 	},
 	{
 		name:'qrencode',
 		url:'',
 		description:'linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii',
-		tags:[]
+		tags:['CLI','qrcode']
 	},
 	{
 		name:'zbar',
 		url:'',
 		description:'linux CLI application and library for reading bar codes from cameras and images',
-		tags:[]
+		tags:['CLI','barcode']
 	},
 	{
 		name:'xclip',
 		url:'',
 		description:'linux CLI command to read/write the clipboards',
-		tags:[]
+		tags:['CLI','clipboard']
 	},
 	{
 		name:'ghostwriter',
-			url:'https://github.com/KDE/ghostwriter',
-			description:'An editor for markdown files',
-			tags:[]
+		url:'https://github.com/KDE/ghostwriter',
+		description:'An editor for markdown files',
+		tags:['text editor','markdown']
 	},
 	{
 		name:'gpsvisualizer.com',
 		url:'https://www.gpsvisualizer.com/',
 		description:'A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...',
-		tags:[]
+		tags:['geolocation','GPS','GPX']
 	},
 	{
 		name:'octave',
 		url:'https://octave.org/',
 		description:'scientific programming language',
-		tags:[]
+		tags:['programming language']
 	},
 	{
 		name:'sqlite',
 		url:'https://www.sqlite.org',
 		description:'a lightweight and fast SQL database engine',
-		tags:[]
+		tags:['sqlite','programming language','database']
 	},
 	{
 		name:'sqlitebrowser',
 		url:'https://sqlitebrowser.org/',
 		description:'a GUI browser for SQLite databases (<a href="https://github.com/sqlitebrowser/sqlitebrowser" target="sqlitebrowser_new" alt="sqlitebrowser code on github">code on github</a>)',
-		tags:[]
+		tags:['sqlite','database']
 	},
 	{
 		name:'sqliteman',
 		url:'',
 		description:'a GUI browser for SQLite databases',
-		tags:[]
+		tags:['sqlite','database']
 	},
 	{
 		name:'adminer',
 			url:'https://www.adminer.org/',
 			description:'a database manager in a single php file (like phpMyAdmin but lighter)',
-			tags:[]
+			tags:['mpsql','database','database manager']
 	},
 	{
 		name:'redis',
@@ -279,49 +279,49 @@ const elements = [
 		name:'transfer.sh',
 		url:'https://transfer.sh',
 		description:'Online tool to transfer files from/to command line or browser (<a href="https://github.com/dutchcoders/transfer.sh" target="transfersh_code_new" alt="transfer.sh code">code on github</a>; <a href="https://github.com/dutchcoders/transfer.sh-web" target="transfersh_site" alt="transfer.sh web frontend">web client</a>)',
-		tags:[]
+		tags:['CLI','file transfer']
 	},
 	{
 		name:'temp.sh',
 		url:'https://temp.sh/',
 		description:'Online tool to transfer files from/to command line or browser',
-		tags:[]
+		tags:['CLI','file transfer']
 	},
 	{
 		name:'croc',
 		url:'https://schollz.com/blog/croc6/',
 		description:'Copy files/texts from a computer to another from the command line (<a href="https://github.com/schollz/croc" target="croc_new" alt="croc source code on github">code on github</a>)',
-		tags:[]
+		tags:['CLI','file transfer']
 	},
 	{
 		name:'rsync',
 		url:'https://rsync.samba.org/',
 		description:'Sync files between two folders',
-		tags:[]
+		tags:['CLI','file synchronization']
 	},
 	{
 		name:'rclone',
 		url:'https://github.com/rclone/rclone',
 		description:'Sync files between computers/clouds. It allows you data compression/encryption and multiple cloud spaces union',
-		tags:[]
+		tags:['CLI','file synchronization','cloud']
 	},
 	{
 		name:'syncthing',
 		url:'https://syncthing.net/',
 		description:'Keep folder pairs synchronized on different devices (available for different operative systems, including Android)',
-		tags:[]
+		tags:['app','file synchronization','web GUI']
 	},
 	{
 		name:'aria2',
 		url:'https://github.com/aria2/aria2',
 		description:'Client to download files supporting several protocols (including bittorrent)',
-		tags:[]
+		tags:['downloader']
 	},
 	{
 		name:'yt-dlp',
 		url:'https://github.com/yt-dlp/yt-dlp',
 		description:'CLI command to download videos from Youtube and other video platforms. Fork of <a href="https://github.com/ytdl-org/youtube-dl" target="youtube-dl" alt="youtube-dl">youtube-dl</a>',
-		tags:[]
+		tags:['video downloader','CLI']
 	},
 	{
 		name:'ipfs',
@@ -333,169 +333,169 @@ const elements = [
 		name:'termbin.com',
 		url:'https://termbin.com/',
 		description:'pastebin accessible via shell ([code here](https://github.com/solusipse/fiche))',
-		tags:[]
+		tags:['CLI','pastebin','website']
 	},
 	{
 		name:'a list of free fonts for programming',
 		url:'https://draculatheme.com/blog/best-free-fonts-for-programming',
 		description:'a list of free fonts for programming',
-		tags:[]
+		tags:['font','website']
 	},
 	{
 		name:'another list of programming fonts',
 		url:'https://kinsta.com/blog/best-programming-font',
 		description:'another list of programming fonts',
-		tags:[]
+		tags:['font','website']
 	},
 	{
 		name:'fzf',
-			url:'https://github.com/junegunn/fzf',
-			description:'CLI command that read lines from stdin, allow you to find and select one with fuzzy search and print it to stdout',
-			tags:[]
+		url:'https://github.com/junegunn/fzf',
+		description:'CLI command that read lines from stdin, allow you to find and select one with fuzzy search and print it to stdout',
+		tags:['CLI','fuzzy search']
 	},
 	{
 		name:'fzy',
 		url:'https://github.com/jhawthorn/fzy',
 		description:'Same as fzy but slightly different',
-		tags:[]
+		tags:['CLI','fuzzy search']
 	},
 	{
 		name:'dmenu',
 		url:'https://wiki.archlinux.org/title/Dmenu',
 		description:'Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI',
-		tags:[]
+		tags:['fuzzy search']
 	},
 	{
 		name:'dmenu2',
 		url:'',
 		description:'Improved dmenu fork',
-		tags:[]
+		tags:['fuzzy search']
 	},
 	{
 		name:'vimgolf',
 			url:'https://www.vimgolf.com/',
 			description:'A game/challenge where you have to do tasks in vim using as few keystrokes as possible',
-			tags:[]
+			tags:['game','vim','website']
 	},
 	{
 		name:'tatoeba',
 		url:'https://tatoeba.org/en/',
 		description:'A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existing ones',
-		tags:[]
+		tags:['languages','website']
 	},
 	{
 		name:'dict.cc',
 		url:'https://www.dict.cc/',
 		description:'An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody (there is a forum too)',
-		tags:[]
+		tags:['dictionary','website','languages']
 	},
 	{
 		name:'refold',
 		url:'',
 		description:'a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency',
-		tags:[]
+		tags:['language learning','languages','website']
 	},
 	{
 		name:'word reference',
 			url:'https://www.wordreference.com/',
 			description:'An online dictionary (there is a forum too)',
-			tags:[]
+			tags:['dictionary','languages','website']
 	},
 	{
 		name:'pimsleur',
 		url:'',
 		description:'a method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation',
-		tags:[],
+		tags:['app','language learning','languages','website'],
 	},
 	{
 		name:'assimil',
 		url:'',
 		description:'a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons',
-		tags:[],
+		tags:['app','language learning','languages'],
 	},
 	{
 		name:'speakly',
 		url:'',
 		description:'a method/website/app to learn foreign languages (it currently has 8 languages available) by learning the 4000 most frequent words/expressions/sentences in the target languages with listening/speaking/flashcard exercises',
-		tags:[],
+		tags:['app','language learning','languages'],
 	},
 	{
 		name:'lojban.org',
 		url:'https://mw.lojban.org/',
 		description:'Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity',
-		tags:[]
+		tags:['languages','lojban','website']
 	},
 	{
 		name:'la sutysisku',
 		url:'https://la-lojban.github.io/sutysisku/en/',
 		description:'A lojban onlyne dictionary (<a href="https://github.com/La-Lojban/sutysisku/" target="sutysisku_new" alt="la sutysisku - GitHub">code on github</a>)',
-		tags:[]
+		tags:['languages','lojban','website']
 	},
 	{
 		name:'bín',
 		url:'https://bin.arnastofnun.is/',
 		description:'A section of arnastofnun where you can search words and find declensions and conjugations',
-		tags:[]
+		tags:['languages','icelandic','website']
 	},
 	{
 		name:'stofnun árna magnússonar',
 		url:'https://arnastofnun.is',
 		description:'Árna Magnússon\'s Foundation for Icelandic Studies',
-		tags:[]
+		tags:['languages','icelandic','website']
 	},
 	{
 		name:'arch linux',
 		url:'https://archlinux.org/',
 		description:'A bleeding edge, minimall, KISS distro',
-		tags:[]
+		tags:['operating system','linux','arch linux']
 	},
 	{
 		name:'tails',
 		url:'https://tails.boum.org/',
 		description:'A portable distro, focused on privacy and protection against surveillance and censorship',
-		tags:[]
+		tags:['operating system','linux','security','anonimity']
 	},
 	{
 		name:'neomutt',
 		url:'https://github.com/neomutt/neomutt',
 		description:'CLI mail client',
-		tags:[]
+		tags:['CLI','mail client']
 	},
 	{
 		name:'aerc',
 		url:'https://aerc-mail.org/',
 		description:'CLI mail client',
-		tags:[]
+		tags:['CLI','mail client']
 	},
 	{
 		name:'neofetch',
 		url:'https://github.com/dylanaraps/neofetch',
 		description:'CLI tool to get info about your OS',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'scribus',
 		url:'https://www.scribus.net/',
 		description:'publishing software',
-		tags:[]
+		tags:['editor','desktop publishing']
 	},
 	{
 		name:'zathura',
 		url:'https://github.com/pwmt/zathura',
 		description:'highly customizable document viewer with vi-styled keybindings',
-		tags:[]
+		tags:['PDF','viewer']
 	},
 	{
 		name:'nmap',
 		url:'',
 		description:'scan IP ranges on arbitrary ports and get info on open ports',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'beautifulsoup',
 		url:'https://beautiful-soup-4.readthedocs.io/en/latest/',
 		description:'python library for getting structured data from HTML/XML (good for web scraping)',
-		tags:[]
+		tags:['python']
 	},
 	{
 		name:'wttr.in',
