@@ -6,6 +6,12 @@ const elements = [
 		tags:['3d','3d modeling','FLOSS','3d rigging','3d animation','3d rendering','free of charge']
 	},
 	{
+		name:'flamenco',
+		url:'https://flamenco.blender.org/',
+		description:'Render management software for Blender',
+		tags:['3d','FLOSS','3d rendering','free of charge']
+	},
+	{
 		name:'freecad',
 		url:'https://www.freecad.org/',
 		description:'3d parametric modeling software',
@@ -81,7 +87,7 @@ const elements = [
 		name:'scrcpy',
 		url:'https://github.com/Genymobile/scrcpy',
 		description:'a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse',
-		tags:['app','android','linux','FLOSS']
+		tags:['android','linux','FLOSS']
 	},
 	{
 		name:'ssh tunnels',
@@ -171,13 +177,13 @@ const elements = [
 		name:'binocle',
 		url:'https://github.com/sharkdp/binocle',
 		description:'A graphical tool to visualize binary data',
-		tags:[]
+		tags:['binary data manipulation']
 	},
 	{
 		name:'binvis.io',
 		url:'https://binvis.io/',
 		description:'An online tool to visualize binary data',
-		tags:[]
+		tags:['binary data manipulation']
 	},
 	{
 		name:'jc',
@@ -237,7 +243,13 @@ const elements = [
 		name:'gpsvisualizer.com',
 		url:'https://www.gpsvisualizer.com/',
 		description:'A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...',
-		tags:['geolocation','GPS','GPX']
+		tags:['geolocation','GPS','GPX','map']
+	},
+	{
+		name:'openstreetmaps',
+		url:'https://www.openstreetmap.org/',
+		description:'A website where you can navigate a map of the entire planet',
+		tags:['geolocation','GPS','GPX','map','FLOSS']
 	},
 	{
 		name:'octave',
@@ -495,187 +507,187 @@ const elements = [
 		name:'beautifulsoup',
 		url:'https://beautiful-soup-4.readthedocs.io/en/latest/',
 		description:'python library for getting structured data from HTML/XML (good for web scraping)',
-		tags:['python']
+		tags:['python','python module']
 	},
 	{
 		name:'wttr.in',
 		url:'https://wttr.in/',
 		description:'weather forecast service accessible via CLI <a href="https://github.com/chubin/wttr.in" target="wttr_in_new" alt="wttr.in on github">code/guide/features</a>)',
-		tags:[]
+		tags:['ASCII art','CLI','weather']
 	},
 	{
 		name:'pyphoon',
 		url:'https://github.com/chubin/pyphoon',
 		description:'view the Moon phase in ASCII art in your terminal',
-		tags:[]
+		tags:['ASCII art']
 	},
 	{
 		name:'entr',
 		url:'https://github.com/eradman/entr',
 		description:'file watcher: execs shell scripts when a file changes',
-		tags:[]
+		tags:['CLI','file watcher']
 	},
 	{
 		name:'twa',
 		url:'https://github.com/trailofbits/twa',
 		description:'nice CLI tool to test websites',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'haveibeenpwned.com',
 		url:'https://haveibeenpwned.com/',
 		description:'A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach',
-		tags:[]
+		tags:['website']
 	},
 	{
 		name:'RSSHub',
 		url:'https://github.com/DIYgod/RSSHub',
 		description:'A tool to generate RSS feed from pretty much everything',
-		tags:[]
+		tags:['RSS']
 	},
 	{
 		name:'dotfyle.com',
 		url:'https://dotfyle.com/',
 		description:'A website where you can share your neovim dotfiles with the community',
-		tags:[]
+		tags:['dotfiles']
 	},
 	{
 		name:'obs',
 		url:'https://obsproject.com/',
 		description:'Cool software with GUI interface for recording/streaming videos',
-		tags:[]
+		tags:['FLOSS','multimedia']
 	},
 	{
 		name:'ffmpeg',
 		url:'https://ffmpeg.org/',
 		description:'Command line tool to manage/convert video/audio/subtitles streams',
-		tags:[]
+		tags:['audio','CLI','FLOSS','media manipulation','multimedia','video']
 	},
 	{
 		name:'imagemagick',
 		url:'https://imagemagick.org/',
 		description:'Command line tool to convert images',
-		tags:[]
+		tags:['CLI','image processing']
 	},
 	{
 		name:'rubberband',
 		url:'https://breakfastquay.com/rubberband/',
 		description:'Command line tool to time-stretch and pitch-shift audio files',
-		tags:[]
+		tags:['audio','CLI']
 	},
 	{
 		name:'mpv',
 		url:'https://mpv.io/',
 		description:'A really cool and simple media player',
-		tags:[]
+		tags:['CLI','FLOSS','media player']
 	},
 	{
 		name:'sox',
 		url:'https://github.com/chirlu/sox',
 		description:'Sound eXchange, the Swiss Army knife of audio manipulation',
-		tags:[]
+		tags:['CLI','FLOSS','media manipulation']
 	},
 	{
 		name:'mpd',
 		url:'https://www.musicpd.org/',
 		description:'flexible, powerful, server-side application for playing music',
-		tags:[]
+		tags:['media player']
 	},
 	{
 		name:'ncmpc',
 		url:'https://github.com/MusicPlayerDaemon/ncmpc',
 		description:'curses client for the Music Player Daemon',
-		tags:[]
+		tags:['media player']
 	},
 	{
 		name:'ncmpcpp',
 		url:'https://github.com/ncmpcpp/ncmpcpp',
 		description:'featureful ncurses based MPD client inspired by ncmpc',
-		tags:[]
+		tags:['media player']
 	},
 	{
 		name:'feh',
 		url:'https://github.com/derf/feh',
 		description:'Simple, lightweight image viewer',
-		tags:[]
+		tags:['image visualizer']
 	},
 	{
 		name:'sxiv',
 		url:'https://github.com/xyb3rt/sxiv',
 		description:'Simple, lightweight image viewer',
-		tags:[]
+		tags:['image visualizer']
 	},
 	{
 		name:'flameshot',
 		url:'https://github.com/flameshot-org/flameshot',
 		description:'A simple but very powerful tool to make screenshots on your PC',
-		tags:[]
+		tags:['screenshot']
 	},
 	{
 		name:'gimp',
 		url:'https://www.gimp.org/',
 		description:'Advanced GUI image editor',
-		tags:[]
+		tags:['FLOSS','image manipulation','graphics']
 	},
 	{
 		name:'inkscape',
 		url:'https://inkscape.org/',
 		description:'vector graphics editor',
-		tags:[]
+		tags:['FLOSS','vector graphics']
 	},
 	{
 		name:'ranger',
 		url:'https://ranger.github.io/',
 		description:'Command line file manager',
-		tags:[]
+		tags:['CLI','FLOSS','file manager']
 	},
 	{
 		name:'midnight commander',
 		url:'https://midnight-commander.org/',
 		description:'Command line, orthodox file manager',
-		tags:[]
+		tags:['CLI','FLOSS','file manager']
 	},
 	{
 		name:'vifm',
 		url:'https://github.com/vifm/vifm',
 		description:'Command line file manager',
-		tags:[]
+		tags:['CLI','FLOSS','file manager']
 	},
 	{
 		name:'fasd',
 		url:'https://github.com/clvv/fasd',
 		description:'Smart command to jump quickly to a directory, based on "frecency"',
-		tags:[]
+		tags:['CLI','FLOSS']
 	},
 	{
 		name:'zoxide',
 		url:'https://github.com/ajeetdsouza/zoxide',
 		description:'Smart command to jump quickly to a directory, based on "frecency"',
-		tags:[]
+		tags:['CLI','FLOSS']
 	},
 	{
 		name:'broot',
 		url:'https://github.com/Canop/broot',
 		description:'CLI tool to have a tree view of a folder and its subfolder. provides fuzzy search and a command to change directory',
-		tags:[]
+		tags:['CLI']
 	},
 	{
 		name:'awesome command line apps',
 		url:'https://git.herrbischoff.com/awesome-command-line-apps/about/',
 		description:'a list of awesome apps that are reachable from CLI',
-		tags:[]
+		tags:['CLI','list']
 	},
 	{
 		name:'awesome testing',
 		url:'https://github.com/TheJambo/awesome-testing',
 		description:'a curated list of testing software, extensions and resources',
-		tags:[]
+		tags:['list']
 	},
 	{
 		name:'sindresorhus/awesome',
 		url:'https://github.com/sindresorhus/awesome#gaming',
 		description:'Awesome stuff lists',
-		tags:[]
+		tags:['list']
 	},
 	{
 		name:'commandlinefu.com',
@@ -741,25 +753,25 @@ const elements = [
 		name:'protonvpn',
 		url:'https://protonvpn.com/',
 		description:'vpn service offered by Proton AG',
-		tags:[]
+		tags:['VPN']
 	},
 	{
 		name:'mullvad',
 		url:'https://mullvad.net/',
 		description:'vpn service base in Sweden. You can pay with several methods, including cryptocurrencies and cash',
-		tags:[]
+		tags:['VPN']
 	},
 	{
 		name:'i3',
 		url:'https://github.com/i3/i3',
 		description:'A window manager based on tiling',
-		tags:[]
+		tags:['window manager','tiling']
 	},
 	{
 		name:'dwm',
 		url:'https://dwm.suckless.org/',
 		description:'Dynamic Window Manager for X based on tiling and made by <a href="https://suckless.org/" target="suckless_new" alt="suckless">suckless</a> team',
-		tags:[]
+		tags:['window manager','tiling','suckless']
 	},
 ];
 
