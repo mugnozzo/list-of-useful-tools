@@ -111,7 +111,7 @@ const elements = [
 		name:'commandlinefu.com',
 		url:'https://www.commandlinefu.com/',
 		description:'dynamic list of useful CL commands',
-		tags:[]
+		tags:['website','command line']
 	},
 	{
 		name:'croc',
@@ -291,7 +291,7 @@ const elements = [
 		name:'ipfs',
 		url:'https://ipfs.tech/',
 		description:'InterPlanetary File System - A peer-to-peer hypermedia protocol',
-		tags:[]
+		tags:['protocol']
 	},
 	{
 		name:'jc',
@@ -447,7 +447,7 @@ const elements = [
 		name:'pixabay',
 		url:'https://pixabay.com/',
 		description:'Royalty-free, downloadable images, videos and music',
-		tags:[]
+		tags:['website']
 	},
 	{
 		name:'poke',
@@ -561,7 +561,7 @@ const elements = [
 		name:'slock',
 		url:'https://tools.suckless.org/slock/',
 		description:'screen, keyboard and mouselocker made by <a href="https://suckless.org/" target="_blank" alt="suckless">suckless</a> team',
-		tags:[]
+		tags:['display locker']
 	},
 	{
 		name:'sox',
@@ -753,7 +753,7 @@ const elements = [
 		name:'xtrlock',
 		url:'',
 		description:'A command that locks your mouse and keyboard leaving the screen visible',
-		tags:[]
+		tags:['display locker']
 	},
 	{
 		name:'yt-dlp',
