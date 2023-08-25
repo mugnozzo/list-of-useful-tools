@@ -19,11 +19,45 @@ input[type="checkbox"] {
 	width: unset;
 }
 
+#filterByTags {
+	display:none;
+}
+
+#allTags {
+	display: none;
+}
+
+#filterByTags:checked ~ #allTags {
+	display: block;
+}
+#hideTags {
+	display:none;
+}
+#filterByTags:checked ~ label #hideTags {
+	display: inline;
+}
+#filterByTags:checked ~ label #showTags {
+	display: none;
+}
+
+.button {
+	background-color: #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #aaa;
+}
+
+.checkboxContainer{
+	margin: 5px;
+	padding: 5px;
+}
+
 .tag {
 	display: inline-block;
 	padding: 5px 10px;
+	margin: 3px;
 	border: 1px solid #aaa;
-	margin: 5px 5px 0 0;
 	cursor: pointer;
 	border-radius: 4px;
 	transition: background-color 0.2s;

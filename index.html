@@ -16,9 +16,20 @@
 		<div>
 			<div class="selected-tags" id="selectedTags"></div>
 			<input type="text" id="searchInput" placeholder="Search by name, description or tags..." onkeyup="filterElements()">
-			<input type="checkbox" id="fuzzySearch" onchange="filterElements()"> Fuzzy Search
-			<div id="allTags"></div>
-			<ul id="results"></ul>
+			<div class="checkboxContainer">
+				<input type="checkbox" id="fuzzySearch" onchange="filterElements()"> Fuzzy Search
+			</div>
+			<div id="allTagsContainer" class="checkboxContainer">
+				<input type="checkbox" id="filterByTags" />
+				<label for="filterByTags">
+					<a class="button" id="showTags">Show tags</a>
+					<a class="button" id="hideTags">Hide tags</a>
+				</label>
+				<div id="allTags"></div>
+			</div>
+			<div class="">
+				<ul id="results"></ul>
+			</div>
 		</div>
 
 		<footer>
