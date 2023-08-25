@@ -678,6 +678,12 @@ const elements = [
 		tags:['paid']
 	},
 	{
+		name:'thetruesize.com',
+		url:'https://thetruesize.com',
+		description:'A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.',
+		tags:['map','website']
+	},
+	{
 		name:'tmux',
 		url:'https://github.com/tmux/tmux',
 		description:'CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)',
