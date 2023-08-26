@@ -1,5 +1,6 @@
 # TODO
 
+- generate static md from data
 - improve style
 - recheck all links and missing ones
 - add topster
