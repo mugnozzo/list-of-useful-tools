@@ -31,7 +31,7 @@ const elements = [
 	},
 	{
 		name:'assimil',
-		url:'',
+		url:'https://www.assimil.com/',
 		description:'a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons',
 		tags:['app', 'language learning', 'languages']
 	},
@@ -98,8 +98,14 @@ const elements = [
 	{
 		name:'bín',
 		url:'https://bin.arnastofnun.is/',
-		description:'A section of arnastofnun where you can search words and find declensions and conjugations',
+		description:'A section of arnastofnun website where you can search words and find declensions and conjugations',
 		tags:['icelandic', 'languages', 'website']
+	},
+	{
+		name:'cameron\'s world',
+		url:'https://www.cameronsworld.net/',
+		description:'A web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009). I recommend to turn on sounds with the top-right button.',
+		tags:['archive', 'gif', 'website']
 	},
 	{
 		name:'chatgpt',
@@ -288,6 +294,12 @@ const elements = [
 		tags:['FLOSS', 'vector graphics']
 	},
 	{
+		name:'internet archive',
+		url:'https://archive.org/',
+		description:'a digital library that provides a collection of websites and media material',
+		tags:['archive', 'website']
+	},
+	{
 		name:'ipfs',
 		url:'https://ipfs.tech/',
 		description:'InterPlanetary File System - A peer-to-peer hypermedia protocol',
@@ -439,8 +451,8 @@ const elements = [
 	},
 	{
 		name:'pimsleur',
-		url:'',
-		description:'a method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation',
+		url:'https://www.pimsleur.com/',
+		description:'A method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation',
 		tags:['app', 'language learning', 'languages', 'website']
 	},
 	{
@@ -681,7 +693,7 @@ const elements = [
 		name:'thetruesize.com',
 		url:'https://thetruesize.com',
 		description:'A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.',
-		tags:['map','website']
+		tags:['comparison','map','website']
 	},
 	{
 		name:'tmux',
