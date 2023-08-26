@@ -342,6 +342,12 @@ const elements = [
 		tags:['CLI', 'FLOSS', 'linux', 'web browser']
 	},
 	{
+		name:'Lojban - The Incomplete Lojban Language',
+		url:'https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html',
+		description:'The community version of the Complete lojban language. <a href="https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/" target="_blank">Here</a> the single html page version. <a href="https://github.com/La-Lojban/uncll" target="_blank">Here</a> the project on GitHub where, for every version, you can also download the PDF and the ePub and you can see the diffs from the official CLL.',
+		tags:['languages', 'lojban', 'website']
+	},
+	{
 		name:'lojban.org',
 		url:'https://mw.lojban.org/',
 		description:'Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity',
