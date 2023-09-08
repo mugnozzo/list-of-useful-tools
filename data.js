@@ -20,7 +20,7 @@ const elements = [
 	{
 		name:'arch linux',
 		url:'https://archlinux.org/',
-		description:'A bleeding edge, minimall, KISS distro',
+		description:'A lightweight, bleeding edge, minimal, rolling release, KISS, linux distro.',
 		tags:['arch linux', 'linux', 'operating system']
 	},
 	{
@@ -34,6 +34,12 @@ const elements = [
 		url:'https://www.assimil.com/',
 		description:'a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons',
 		tags:['app', 'language learning', 'languages']
+	},
+	{
+		name:'Arch User Repository',
+		url:'https://aur.archlinux.org/',
+		description:'The community user repository for Arch Linux.',
+		tags:['arch linux', 'linux', 'repository']
 	},
 	{
 		name:'awesome command line apps',
@@ -702,6 +708,12 @@ const elements = [
 		tags:['comparison','map','website']
 	},
 	{
+		name:'timeshift',
+		url:'https://github.com/linuxmint/timeshift',
+		description:'Linux tool to make incremental snapshots of the file system, available to be restored later',
+		tags:['CLI']
+	},
+	{
 		name:'tmux',
 		url:'https://github.com/tmux/tmux',
 		description:'CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)',
@@ -730,6 +742,12 @@ const elements = [
 		url:'',
 		description:'linux CLI program for testing your typing speed that supports many languages, inclunding some programming languages',
 		tags:['CLI', 'type speed']
+	},
+	{
+		name:'ventoy',
+		url:'https://www.ventoy.net/en/index.html',
+		description:'A Free and Open Source tool to create bootable drives that allow you to choose between more than one image to boot (<a href="https://github.com/ventoy/Ventoy" target="_blank">git repo</a>)',
+		tags:['FLOSS', 'boot']
 	},
 	{
 		name:'vifm',
