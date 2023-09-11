@@ -42,6 +42,12 @@ const elements = [
 		tags:['arch linux', 'linux', 'repository']
 	},
 	{
+		name:'awesome blender',
+		url:'https://github.com/agmmnn/awesome-blender',
+		description:'a list of awesome tools (free and paid) for Blender',
+		tags:['blender', 'list']
+	},
+	{
 		name:'awesome command line apps',
 		url:'https://git.herrbischoff.com/awesome-command-line-apps/about/',
 		description:'a list of awesome apps that are reachable from CLI',
