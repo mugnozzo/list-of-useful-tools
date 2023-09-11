@@ -10,3 +10,4 @@
 - add alphabetical sort
 - add reset button
 - sort tags in single elements
+- add electron

@@ -711,7 +711,7 @@ const elements = [
 		name:'timeshift',
 		url:'https://github.com/linuxmint/timeshift',
 		description:'Linux tool to make incremental snapshots of the file system, available to be restored later',
-		tags:['CLI']
+		tags:['CLI','linux']
 	},
 	{
 		name:'tmux',
