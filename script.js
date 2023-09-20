@@ -51,7 +51,7 @@ function renderSelectedTags() {
 		const tagEl = document.createElement("div");
 		tagEl.className = "selected-tag";
 		tagEl.innerHTML = `
-						<span>${tag}</span><span class="remove-tag" data-tag="${tag}">X</span>
+						<span>${tag}</span><span class="remove-tag" data-tag="${tag}">&times;</span>
 				`;
 		container.appendChild(tagEl);
 	});
