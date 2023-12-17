@@ -338,7 +338,7 @@ const elements = [
 	{
 		name:'la sutysisku',
 		url:'https://la-lojban.github.io/sutysisku/en/',
-		description:'A lojban onlyne dictionary (<a href="https://github.com/La-Lojban/sutysisku/" target="_blank" alt="la sutysisku - GitHub">code on github</a>)',
+		description:'A lojban online dictionary (<a href="https://github.com/La-Lojban/sutysisku/" target="_blank" alt="la sutysisku - GitHub">code on github</a>)',
 		tags:['languages', 'lojban', 'website']
 	},
 	{
