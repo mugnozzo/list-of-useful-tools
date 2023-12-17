@@ -9,7 +9,7 @@ const elements = [
 		name:'adminer',
 		url:'https://www.adminer.org/',
 		description:'a database manager in a single php file (like phpMyAdmin but lighter)',
-		tags:['database', 'database manager', 'mpsql']
+		tags:['database', 'database manager', 'mysql']
 	},
 	{
 		name:'aerc',
