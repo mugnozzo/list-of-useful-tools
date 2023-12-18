@@ -348,6 +348,12 @@ const elements = [
 		tags:['learning', 'programming', 'website']
 	},
 	{
+		name:'library of babel',
+		url:'https://libraryofbabel.info/',
+		description:'A website inspired by Jorge Luis Borges\' short story "The Library of Babbel"',
+		tags:['books', 'website']
+	},
+	{
 		name:'librewolf',
 		url:'https://librewolf.net/',
 		description:'fork of Firefox, focused on privacy, security and freedom',
