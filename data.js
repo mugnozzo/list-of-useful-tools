@@ -345,7 +345,7 @@ const elements = [
 		name:'learn x in y minutes',
 		url:'https://learnxinyminutes.com/',
 		description:'A website with short guides to quickly learn the basic of some programming languages (<a href="https://github.com/adambard/learnxinyminutes-docs" target="_blank" alt="learn x in y minutes - GitHub">code on github</a>)',
-		tags:['languages', 'lojban', 'website']
+		tags:['learning', 'programming', 'website']
 	},
 	{
 		name:'librewolf',
