@@ -753,7 +753,7 @@ const elements = [
 		name:'ttyplot',
 		url:'https://github.com/tenox7/ttyplot',
 		description:'ASCII-based CLI tool that plots data from stdin',
-		tags:['CLI', 'FLOSS']
+		tags:['CLI', 'FLOSS', 'plot']
 	},
 	{
 		name:'twa',
