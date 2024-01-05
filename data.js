@@ -186,6 +186,12 @@ const elements = [
 		tags:['FLOSS', 'IDE', 'text editor']
 	},
 	{
+		name:'etherpad',
+		url:'https://github.com/ether/etherpad-lite',
+		description:'A real-time, collaborative, web-based document editor.',
+		tags:['document editor']
+	},
+	{
 		name:'entr',
 		url:'https://github.com/eradman/entr',
 		description:'file watcher: execs shell scripts when a file changes',
