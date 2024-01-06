@@ -195,7 +195,7 @@ const elements = [
 		name:'etherpad',
 		url:'https://github.com/ether/etherpad-lite',
 		description:'A real-time, collaborative, web-based document editor.',
-		tags:['document editor']
+		tags:['FLOSS', 'document editor']
 	},
 	{
 		name:'entr',
