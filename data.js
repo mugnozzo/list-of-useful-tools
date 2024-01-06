@@ -180,6 +180,12 @@ const elements = [
 		tags:['suckless', 'tiling', 'window manager']
 	},
 	{
+		name:'electron',
+		url:'https://github.com/electron/electron/',
+		description:'A Node-based framework to write cross-platform applications. The application windows are chromium windows showing the pages that the user creates. Electron exposes APIs to give the Chromium web application access to the system',
+		tags:['framework']
+	},
+	{
 		name:'emacs',
 		url:'https://www.gnu.org/software/emacs/',
 		description:'An interactive CLI/GUI text editor',
