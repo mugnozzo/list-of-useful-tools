@@ -636,6 +636,12 @@ const elements = [
 		tags:['app', 'language learning', 'languages']
 	},
 	{
+		name:'sprunge.us',
+		url:'https://sprunge.us/',
+		description:'pastebin accessible via CLI ([code on github](http://github.com/rupa/sprunge))',
+		tags:['CLI', 'pastebin', 'website']
+	},
+	{
 		name:'sqlite',
 		url:'https://www.sqlite.org',
 		description:'a lightweight and fast SQL database engine',
@@ -722,7 +728,7 @@ const elements = [
 	{
 		name:'termbin.com',
 		url:'https://termbin.com/',
-		description:'pastebin accessible via shell ([code here](https://github.com/solusipse/fiche))',
+		description:'pastebin accessible via CLI ([code on github](https://github.com/solusipse/fiche))',
 		tags:['CLI', 'pastebin', 'website']
 	},
 	{
