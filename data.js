@@ -392,7 +392,7 @@ const elements = [
 	{
 		name:'lojban.org',
 		url:'https://mw.lojban.org/',
-		description:'Lojban is a logic artificial language that gives you the capability of talkin about everything with no ambiguity',
+		description:'Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity',
 		tags:['languages', 'lojban', 'website']
 	},
 	{
