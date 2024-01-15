@@ -753,13 +753,13 @@ const elements = [
 		name:'thetruesize.com',
 		url:'https://thetruesize.com',
 		description:'A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.',
-		tags:['comparison','map']
+		tags:['comparison', 'map']
 	},
 	{
 		name:'timeshift',
 		url:'https://github.com/linuxmint/timeshift',
 		description:'Linux tool to make incremental snapshots of the file system, available to be restored later',
-		tags:['CLI','linux']
+		tags:['CLI', 'linux']
 	},
 	{
 		name:'tmux',
