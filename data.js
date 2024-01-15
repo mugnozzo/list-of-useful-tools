@@ -330,6 +330,12 @@ const elements = [
 		tags:['protocol']
 	},
 	{
+		name:'ithkuil',
+		url:'https://www.ithkuil.net/',
+		description:'A constructed logical language made to minimize semantic ambiguity',
+		tags:['languages', 'ithkuil', 'website']
+	},
+	{
 		name:'jc',
 		url:'https://github.com/kellyjonbrazil/jc',
 		description:'JSON Convert: convert to JSON the stdout of a lot shell commands and files',
