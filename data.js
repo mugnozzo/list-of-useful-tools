@@ -111,13 +111,13 @@ const elements = [
 		name:'bín',
 		url:'https://bin.arnastofnun.is/',
 		description:'A section of arnastofnun website where you can search words and find declensions and conjugations',
-		tags:['icelandic', 'languages', 'website']
+		tags:['icelandic', 'languages']
 	},
 	{
 		name:'cameron\'s world',
 		url:'https://www.cameronsworld.net/',
 		description:'A web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009). I recommend to turn on sounds with the top-right button.',
-		tags:['archive', 'gif', 'website']
+		tags:['archive', 'gif']
 	},
 	{
 		name:'chatgpt',
@@ -129,7 +129,7 @@ const elements = [
 		name:'commandlinefu.com',
 		url:'https://www.commandlinefu.com/',
 		description:'dynamic list of useful CL commands',
-		tags:['website','command line']
+		tags:['command line']
 	},
 	{
 		name:'croc',
@@ -147,7 +147,7 @@ const elements = [
 		name:'dict.cc',
 		url:'https://www.dict.cc/',
 		description:'An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody (there is a forum too)',
-		tags:['dictionary', 'languages', 'website']
+		tags:['dictionary', 'languages']
 	},
 	{
 		name:'dmenu',
@@ -171,7 +171,7 @@ const elements = [
 		name:'Draculatheme list of free fonts for programming',
 		url:'https://draculatheme.com/blog/best-free-fonts-for-programming',
 		description:'a list of free fonts for programming',
-		tags:['font', 'website']
+		tags:['font']
 	},
 	{
 		name:'dwm',
@@ -285,13 +285,13 @@ const elements = [
 		name:'grymoire',
 		url:'https://grymoire.com/',
 		description:'A minimal website with some interesting guides about tools like grep, sed, awk, ...',
-		tags:['guide', 'website']
+		tags:['guide']
 	},
 	{
 		name:'haveibeenpwned.com',
 		url:'https://haveibeenpwned.com/',
 		description:'A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach',
-		tags:['website']
+		tags:['security']
 	},
 	{
 		name:'hexyl',
@@ -321,7 +321,7 @@ const elements = [
 		name:'internet archive',
 		url:'https://archive.org/',
 		description:'a digital library that provides a collection of websites and media material',
-		tags:['archive', 'website']
+		tags:['archive']
 	},
 	{
 		name:'ipfs',
@@ -333,7 +333,7 @@ const elements = [
 		name:'ithkuil',
 		url:'https://www.ithkuil.net/',
 		description:'A constructed logical language made to minimize semantic ambiguity',
-		tags:['languages', 'ithkuil', 'website']
+		tags:['languages', 'ithkuil']
 	},
 	{
 		name:'jc',
@@ -351,25 +351,25 @@ const elements = [
 		name:'Kinsta list of programming fonts',
 		url:'https://kinsta.com/blog/best-programming-font',
 		description:'another list of programming fonts',
-		tags:['font', 'website']
+		tags:['font']
 	},
 	{
 		name:'la sutysisku',
 		url:'https://la-lojban.github.io/sutysisku/en/',
 		description:'A lojban online dictionary (<a href="https://github.com/La-Lojban/sutysisku/" target="_blank" alt="la sutysisku - GitHub">code on github</a>)',
-		tags:['languages', 'lojban', 'website']
+		tags:['languages', 'lojban']
 	},
 	{
 		name:'learn x in y minutes',
 		url:'https://learnxinyminutes.com/',
 		description:'A website with short guides to quickly learn the basic of some programming languages (<a href="https://github.com/adambard/learnxinyminutes-docs" target="_blank" alt="learn x in y minutes - GitHub">code on github</a>)',
-		tags:['learning', 'programming', 'website']
+		tags:['learning', 'programming']
 	},
 	{
 		name:'library of babel',
 		url:'https://libraryofbabel.info/',
 		description:'A website inspired by Jorge Luis Borges\' short story "The Library of Babbel"',
-		tags:['books', 'website']
+		tags:['books']
 	},
 	{
 		name:'librewolf',
@@ -387,13 +387,13 @@ const elements = [
 		name:'Lojban - The Incomplete Lojban Language',
 		url:'https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html',
 		description:'The community version of the Complete lojban language. <a href="https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/" target="_blank">Here</a> the single html page version. <a href="https://github.com/La-Lojban/uncll" target="_blank">Here</a> the project on GitHub where, for every version, you can also download the PDF and the ePub and you can see the diffs from the official CLL.',
-		tags:['languages', 'lojban', 'website']
+		tags:['languages', 'lojban']
 	},
 	{
 		name:'lojban.org',
 		url:'https://mw.lojban.org/',
 		description:'Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity',
-		tags:['languages', 'lojban', 'website']
+		tags:['languages', 'lojban']
 	},
 	{
 		name:'mastodon',
@@ -410,7 +410,7 @@ const elements = [
 	{
 		name:'monkeytype.com',
 		url:'https://monkeytype.com/',
-		description:'website for testing your typing speed in many languages (including programming languages) and getting stats',
+		description:'Website for testing your typing speed in many languages (including programming languages) and getting stats',
 		tags:['type speed']
 	},
 	{
@@ -501,13 +501,13 @@ const elements = [
 		name:'pimsleur',
 		url:'https://www.pimsleur.com/',
 		description:'A method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation',
-		tags:['app', 'language learning', 'languages', 'website']
+		tags:['app', 'language learning', 'languages']
 	},
 	{
 		name:'pixabay',
 		url:'https://pixabay.com/',
 		description:'Royalty-free, downloadable images, videos and music',
-		tags:['website']
+		tags:['images']
 	},
 	{
 		name:'poke',
@@ -567,7 +567,7 @@ const elements = [
 		name:'refold',
 		url:'',
 		description:'a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency',
-		tags:['language learning', 'languages', 'website']
+		tags:['language learning', 'languages']
 	},
 	{
 		name:'ripgrep',
@@ -645,7 +645,7 @@ const elements = [
 		name:'sprunge.us',
 		url:'https://sprunge.us/',
 		description:'pastebin accessible via CLI ([code on github](http://github.com/rupa/sprunge))',
-		tags:['CLI', 'pastebin', 'website']
+		tags:['CLI', 'pastebin']
 	},
 	{
 		name:'sqlite',
@@ -681,13 +681,13 @@ const elements = [
 		name:'stackexchange',
 		url:'https://stackexchange.com/',
 		description:'Well, I\'m sure you already know it',
-		tags:['help', 'website']
+		tags:['help']
 	},
 	{
 		name:'stofnun árna magnússonar',
 		url:'https://arnastofnun.is',
 		description:'Árna Magnússon\'s Foundation for Icelandic Studies',
-		tags:['icelandic', 'languages', 'website']
+		tags:['icelandic', 'languages']
 	},
 	{
 		name:'sxiv',
@@ -717,7 +717,7 @@ const elements = [
 		name:'tatoeba',
 		url:'https://tatoeba.org/en/',
 		description:'A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existing ones',
-		tags:['languages', 'website']
+		tags:['languages']
 	},
 	{
 		name:'telescope',
@@ -735,7 +735,7 @@ const elements = [
 		name:'termbin.com',
 		url:'https://termbin.com/',
 		description:'pastebin accessible via CLI ([code on github](https://github.com/solusipse/fiche))',
-		tags:['CLI', 'pastebin', 'website']
+		tags:['CLI', 'pastebin']
 	},
 	{
 		name:'termux',
@@ -753,7 +753,7 @@ const elements = [
 		name:'thetruesize.com',
 		url:'https://thetruesize.com',
 		description:'A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.',
-		tags:['comparison','map','website']
+		tags:['comparison','map']
 	},
 	{
 		name:'timeshift',
@@ -807,7 +807,7 @@ const elements = [
 		name:'vimgolf',
 		url:'https://www.vimgolf.com/',
 		description:'A game/challenge where you have to do tasks in vim using as few keystrokes as possible',
-		tags:['game', 'vim', 'website']
+		tags:['game', 'vim']
 	},
 	{
 		name:'watson',
@@ -825,7 +825,7 @@ const elements = [
 		name:'word reference',
 		url:'https://www.wordreference.com/',
 		description:'An online dictionary (there is a forum too)',
-		tags:['dictionary', 'languages', 'website']
+		tags:['dictionary', 'languages']
 	},
 	{
 		name:'wttr.in',
