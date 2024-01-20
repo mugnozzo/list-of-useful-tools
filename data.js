@@ -798,6 +798,12 @@ const elements = [
 		tags:['FLOSS', 'boot']
 	},
 	{
+		name:'vidir',
+		url:'https://github.com/trapd00r/vidir',
+		description:'A CLI tool to manage filenames (or even delete files) inside a text editor.',
+		tags:['CLI', 'FLOSS', 'file renamer']
+	},
+	{
 		name:'vifm',
 		url:'https://github.com/vifm/vifm',
 		description:'Command line file manager',
