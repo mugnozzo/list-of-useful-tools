@@ -192,6 +192,12 @@ const elements = [
 		tags:['FLOSS', 'IDE', 'text editor']
 	},
 	{
+		name:'endoflife.date',
+		url:'https://endoflife.date/',
+		description:'A website collecting the information about lifecycles of various products.',
+		tags:['website']
+	},
+	{
 		name:'etherpad',
 		url:'https://github.com/ether/etherpad-lite',
 		description:'A real-time, collaborative, web-based document editor.',
