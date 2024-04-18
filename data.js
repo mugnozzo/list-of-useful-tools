@@ -852,6 +852,12 @@ const elements = [
 		tags:['CLI', 'clipboard']
 	},
 	{
+		name:'xev',
+		url:'',
+		description:'Bash command to detect and print X events (mouse movements and clicks, keyboard events, ...)',
+		tags:['CLI', 'mouse', 'keyboard']
+	},
+	{
 		name:'xtrlock',
 		url:'',
 		description:'A command that locks your mouse and keyboard leaving the screen visible',
