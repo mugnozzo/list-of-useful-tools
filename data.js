@@ -282,6 +282,12 @@ const elements = [
 		tags:['GPS', 'GPX', 'geolocation', 'map']
 	},
 	{
+		name:'gpxsee',
+		url:'https://www.gpxsee.org/',
+		description:'Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (<a href="https://github.com/tumic0/GPXSee" target="_blank" alt="gpxsee - GitHub">code on github</a>)',
+		tags:['FLOSS', 'GPS', 'GPX', 'geolocation', 'map']
+	},
+	{
 		name:'grep',
 		url:'https://www.gnu.org/software/grep/',
 		description:'CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)',
