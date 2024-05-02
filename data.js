@@ -198,6 +198,12 @@ const elements = [
 		tags:['website']
 	},
 	{
+		name:'epy-reader',
+		url:'https://github.com/wustho/epy',
+		description:'A CLI ebook reader. Supports, epub, mobi and other formats.',
+		tags:['CLI','ebook-reader','FLOSS']
+	},
+	{
 		name:'etherpad',
 		url:'https://github.com/ether/etherpad-lite',
 		description:'A real-time, collaborative, web-based document editor.',
@@ -238,6 +244,12 @@ const elements = [
 		url:'https://github.com/flameshot-org/flameshot',
 		description:'A simple but very powerful tool to make screenshots on your PC',
 		tags:['screenshot']
+	},
+	{
+		name:'foliate',
+		url:'https://johnfactotum.github.io/foliate/',
+		description:'A lightweight ebook reader for Linux (<a href="https://github.com/johnfactotum/foliate" target="_blank" alt="foliate source code on github">code on github</a>).',
+		tags:['ebook-reader','FLOSS']
 	},
 	{
 		name:'freecad',
