@@ -392,7 +392,7 @@ const elements = [
 	{
 		name:'library of babel',
 		url:'https://libraryofbabel.info/',
-		description:'A website inspired by Jorge Luis Borges\' short story "The Library of Babbel"',
+		description:'A website inspired by Jorge Luis Borges\' short story "The Library of Babel"',
 		tags:['books']
 	},
 	{
