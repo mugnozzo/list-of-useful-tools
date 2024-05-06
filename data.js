@@ -498,6 +498,12 @@ const elements = [
 		tags:['CLI']
 	},
 	{
+		name:'nnn',
+		url:'https://github.com/jarun/nnn',
+		description:'Command line file manager',
+		tags:['CLI', 'FLOSS', 'file manager']
+	},
+	{
 		name:'obs',
 		url:'https://obsproject.com/',
 		description:'Cool software with GUI interface for recording/streaming videos',
