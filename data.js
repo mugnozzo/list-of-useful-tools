@@ -128,7 +128,7 @@ const elements = [
 	{
 		name:'clozemaster',
 		url:'https://www.clozemaster.com/',
-		description:'a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it has uses TTS to hear pronunciation and a learn-and-review method; it has both free and paid versions',
+		description:'a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it uses TTS to hear pronunciation and a learn-and-review method; it has both free and paid versions',
 		tags:['app', 'language learning', 'languages', 'learning']
 	},
 	{
