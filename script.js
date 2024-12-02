@@ -10,8 +10,7 @@ function filterElements() {
 	results.innerHTML = '';
 
 	elements.forEach(element => {
-		const isFuzzySearchEnabled = document.getElementById("fuzzySearch").checked;
-		const matchFunction = isFuzzySearchEnabled ? fuzzyMatch : (a, b) => b.includes(a);
+		const matchFunction = (a, b) => b.includes(a);
 		console.log(input);
 		console.log(element.name.toLowerCase());
 		console.log(matchFunction(input, element.name.toLowerCase()));
