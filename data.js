@@ -126,6 +126,12 @@ const elements = [
 		tags:['AI', 'chat bot', 'free or paid']
 	},
 	{
+		name:'clozemaster',
+		url:'https://www.clozemaster.com/',
+		description:'a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it has uses TTS to hear pronunciation and a learn-and-review method; it has both free and paid versions',
+		tags:['app', 'language learning', 'languages', 'learning']
+	},
+	{
 		name:'commandlinefu.com',
 		url:'https://www.commandlinefu.com/',
 		description:'dynamic list of useful CL commands',
