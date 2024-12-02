@@ -1,6 +1,45 @@
+body {
+	background-color: #121212;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0 20px;
+}
+
+header h1 {
+	color: #76ff03;
+	text-align: center;
+	padding: 20px 0;
+}
+
+a {
+	color: #76ff03;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+input[type="text"],
+input[type="checkbox"] {
+	background-color: #1e1e1e;
+	color: #ffffff;
+	border: 1px solid #333;
+	padding: 5px;
+	margin: 5px 0;
+}
+
+input[type="text"]:focus {
+	border-color: #76ff03;
+	/* Green border when focused */
+	outline: none;
+}
+
 ul {
 	list-style: none;
-	padding-left: 0;
+	padding: 0;
 }
 
 li {
@@ -10,62 +49,73 @@ li {
 	border-radius: 5px;
 }
 
+li strong {
+	color: #76ff03;
+}
+
 input {
 	padding: 10px;
 	width: 100%;
 	box-sizing: border-box;
 }
+
 input[type="checkbox"] {
 	width: unset;
 }
 
 #filterByTags {
-	display:none;
+	display: none;
 }
 
 #allTags {
 	display: none;
 }
 
-#filterByTags:checked ~ #allTags {
+#filterByTags:checked~#allTags {
 	display: block;
 }
+
 #hideTags {
-	display:none;
+	display: none;
 }
-#filterByTags:checked ~ label #hideTags {
+
+#filterByTags:checked~label #hideTags {
 	display: inline;
 }
-#filterByTags:checked ~ label #showTags {
+
+#filterByTags:checked~label #showTags {
 	display: none;
 }
 
 .button {
-	background-color: #ddd;
+	background-color: #555;
 	border-radius: 4px;
 	padding: 5px;
 	margin: 5px;
 	border: 1px solid #aaa;
 }
 
-.checkboxContainer{
-	margin: 5px;
-	padding: 5px;
+.checkboxContainer {
+	margin: 10px 0;
+	color: #aaaaaa;
+	/* Light gray text for non-essential elements */
 }
 
 .tag {
+	background-color: #333;
+	color: #76ff03;
+	border-radius: 3px;
+	padding: 2px 5px;
+	font-size: 0.9em;
 	display: inline-block;
-	padding: 5px 10px;
-	margin: 3px;
-	border: 1px solid #aaa;
+	margin: 2px;
 	cursor: pointer;
-	border-radius: 4px;
 	transition: background-color 0.2s;
-	font-size: .8rem;
 }
 
 .tag:hover {
 	background-color: #eee;
+	color: #333;
 }
 
 .selected-tags {
@@ -75,13 +125,14 @@ input[type="checkbox"] {
 }
 
 .selected-tag {
+	background-color: #333;
+	color: #76ff03;
 	display: flex;
 	align-items: center;
 	padding: 5px 10px;
 	margin: 5px 5px 0 0;
 	border: 1px solid #aaa;
 	border-radius: 4px;
-	background-color: #eee;
 }
 
 .selected-tag span {
@@ -92,8 +143,4 @@ input[type="checkbox"] {
 	cursor: pointer;
 	color: red;
 	margin-left: 5px;
-}
-
-#results li {
-  background-color: #eee;
 }
