@@ -12,6 +12,12 @@ const elements = [
 		tags:['database', 'database manager', 'mysql']
 	},
 	{
+		name:'advent of code',
+		url:'https://adventofcode.com/',
+		description:'annual set of programming challenges following the Advent calendar and Christmas-themed',
+		tags:['challenge', 'programming', 'website']
+	},
+	{
 		name:'aerc',
 		url:'https://aerc-mail.org/',
 		description:'CLI mail client',
