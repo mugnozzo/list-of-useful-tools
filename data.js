@@ -33,7 +33,7 @@ const elements = [
 		name:'assimil',
 		url:'https://www.assimil.com/',
 		description:'a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons',
-		tags:['app', 'language learning', 'languages']
+		tags:['app', 'language learning', 'languages', 'learning']
 	},
 	{
 		name:'Arch User Repository',
@@ -531,7 +531,7 @@ const elements = [
 		name:'pimsleur',
 		url:'https://www.pimsleur.com/',
 		description:'A method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation',
-		tags:['app', 'language learning', 'languages']
+		tags:['app', 'language learning', 'languages', 'learning']
 	},
 	{
 		name:'pixabay',
@@ -597,7 +597,7 @@ const elements = [
 		name:'refold',
 		url:'',
 		description:'a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency',
-		tags:['language learning', 'languages']
+		tags:['language learning', 'languages', 'learning']
 	},
 	{
 		name:'ripgrep',
@@ -669,7 +669,7 @@ const elements = [
 		name:'speakly',
 		url:'',
 		description:'a method/website/app to learn foreign languages (it currently has 8 languages available) by learning the 4000 most frequent words/expressions/sentences in the target languages with listening/speaking/flashcard exercises',
-		tags:['app', 'language learning', 'languages']
+		tags:['app', 'language learning', 'languages', 'learning']
 	},
 	{
 		name:'sprunge.us',
