@@ -11,9 +11,6 @@ function filterElements() {
 
 	elements.forEach(element => {
 		const matchFunction = (a, b) => b.includes(a);
-		console.log(input);
-		console.log(element.name.toLowerCase());
-		console.log(matchFunction(input, element.name.toLowerCase()));
 
 		if ((matchFunction(input, element.name.toLowerCase()) ||
 		matchFunction(input, element.description.toLowerCase()) ||
