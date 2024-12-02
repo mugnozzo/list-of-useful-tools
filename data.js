@@ -849,7 +849,7 @@ const elements = [
 		name:'vimgolf',
 		url:'https://www.vimgolf.com/',
 		description:'A game/challenge where you have to do tasks in vim using as few keystrokes as possible',
-		tags:['game', 'vim']
+		tags:['game', 'vim', 'challenge']
 	},
 	{
 		name:'watson',
