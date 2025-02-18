@@ -666,10 +666,10 @@ const elements = [
 		tags:['display locker']
 	},
 	{
-		name:'snapdrop',
-		url:'https://snapdrop.net',
-		description:'Online web tool to share files with other devices in the same network. <a href="https://github.com/RobinLinus/snapdrop" target="_blank" alt="snapdrop on github">Code on Github</a> team',
-		tags:['display locker']
+		name:'pairdrop',
+		url:'https://pairdrop.net',
+		description:'Fork of snapdrop (After it has been acquired by Limewire). Online web tool to share files with other devices in the same network. <a href="https://github.com/schlagmichdoch/pairdrop" target="_blank" alt="pairdrop on github">Code on Github</a> team',
+		tags:['file transfer']
 	},
 	{
 		name:'sox',
