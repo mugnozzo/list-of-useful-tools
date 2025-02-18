@@ -5,10 +5,12 @@ filterElements();
 function filterElements() {
 	const input = document.getElementById("searchInput").value.toLowerCase();
 	const results = document.getElementById("results");
+	const results_number = document.getElementById("results-number");
 
 	// Clear existing results
 	results.innerHTML = '';
 
+	c=0;
 	elements.forEach(element => {
 		const matchFunction = (a, b) => b.includes(a);
 
@@ -24,7 +26,9 @@ function filterElements() {
 								Tags: ${element.tags.map(tag => `<span class="tag" data-tag="${tag}">${tag}</span>`).join(", ")}
 						`;
 			results.appendChild(li);
+			c+=1;
 		}
+		results_number.innerHTML = c + ' results';
 	});
 
 	// Add event listeners to tags for filtering
