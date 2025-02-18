@@ -324,6 +324,12 @@ const elements = [
 		tags:['guide']
 	},
 	{
+		name:'gummi',
+		url:'https://github.com/alexandervdm/gummi',
+		description:'Latex editor with splitted screen: on the left you see the Latex code, on the right the rendered page',
+		tags:['text editor','latex']
+	},
+	{
 		name:'haveibeenpwned.com',
 		url:'https://haveibeenpwned.com/',
 		description:'A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach',
