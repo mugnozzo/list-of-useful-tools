@@ -870,6 +870,12 @@ const elements = [
 		tags:['CLI', 'free of charge', 'time tracker', 'work-tool']
 	},
 	{
+		name:'what3words',
+		url:'https://what3words.com/',
+		description:'A website that allows you to describe any place in the world with 3 words. It divides the whole world in 3x3 squares and identify each square with 3 words.',
+		tags:['map', 'website']
+	},
+	{
 		name:'whisper',
 		url:'https://openai.com/research/whisper',
 		description:'neural net for speech recognition',
