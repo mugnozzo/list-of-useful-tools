@@ -120,7 +120,8 @@
     "description": "linux CLI tool to create barcodes and save them in various formats",
     "tags": [
       "cli",
-      "barcode"
+      "barcode",
+      "linux"
     ]
   },
   {
@@ -260,7 +261,7 @@
   {
     "name": "dmenu",
     "url": "https://wiki.archlinux.org/title/Dmenu",
-    "description": "Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI",
+    "description": "Similar to fzf and fzy but the search/select menu works on window manager and not on CLI",
     "tags": [
       "fuzzy search"
     ]
@@ -304,6 +305,7 @@
     "url": "https://www.gnu.org/software/emacs/",
     "description": "An interactive CLI/GUI text editor",
     "tags": [
+      "cli",
       "floss",
       "ide",
       "text editor"
@@ -400,7 +402,8 @@
     "description": "A lightweight ebook reader for Linux (code on github: https://github.com/johnfactotum/foliate).",
     "tags": [
       "ebook-reader",
-      "floss"
+      "floss",
+      "linux"
     ]
   },
   {
@@ -459,7 +462,6 @@
     "description": "Advanced GUI image editor",
     "tags": [
       "floss",
-      "audio manipulation",
       "graphics",
       "image manipulation"
     ]
@@ -775,6 +777,7 @@
     "url": "https://neovim.io/",
     "description": "CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim",
     "tags": [
+      "cli",
       "floss",
       "ide",
       "no gui",
@@ -877,7 +880,8 @@
     "url": "https://www.ivarch.com/programs/pv.shtml",
     "description": "linux CLI command to manage the progress of data",
     "tags": [
-      "cli"
+      "cli",
+      "linux"
     ]
   },
   {
@@ -894,7 +898,8 @@
     "description": "linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii",
     "tags": [
       "cli",
-      "qrcode"
+      "qrcode",
+      "linux"
     ]
   },
   {
@@ -1152,7 +1157,7 @@
     "url": "https://tails.boum.org/",
     "description": "A portable distro, focused on privacy and protection against surveillance and censorship",
     "tags": [
-      "anonimity",
+      "anonymity",
       "linux",
       "operating system",
       "security"
@@ -1212,7 +1217,8 @@
       "cli",
       "free or paid",
       "mobile app",
-      "terminal"
+      "terminal",
+      "linux"
     ]
   },
   {
@@ -1370,7 +1376,8 @@
     "description": "linux CLI command to read/write the clipboards",
     "tags": [
       "cli",
-      "clipboard"
+      "clipboard",
+      "linux"
     ]
   },
   {
@@ -1415,7 +1422,8 @@
     "description": "linux CLI application and library for reading bar codes from cameras and images",
     "tags": [
       "cli",
-      "barcode"
+      "barcode",
+      "linux"
     ]
   },
   {

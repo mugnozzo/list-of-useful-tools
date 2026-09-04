@@ -39,7 +39,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## android
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
 
-## anonimity
+## anonymity
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
 
 ## app
@@ -66,9 +66,6 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## audio
 - [ffmpeg](https://ffmpeg.org/ "ffmpeg") - Command line tool to manage/convert video/audio/subtitles streams
 - [rubberband](https://breakfastquay.com/rubberband/ "rubberband") - Command line tool to time-stretch and pitch-shift audio files
-
-## audio manipulation
-- [gimp](https://www.gimp.org/ "gimp") - Advanced GUI image editor
 
 ## barcode
 - [barcode](https://www.gnu.org/software/barcode/ "barcode") - linux CLI tool to create barcodes and save them in various formats
@@ -104,6 +101,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [barcode](https://www.gnu.org/software/barcode/ "barcode") - linux CLI tool to create barcodes and save them in various formats
 - [broot](https://github.com/Canop/broot "broot") - CLI tool to have a tree view of a folder and its subfolder. provides fuzzy search and a command to change directory
 - [croc](https://schollz.com/blog/croc6/ "croc") - Copy files/texts from a computer to another from the command line (code on github: https://github.com/schollz/croc)
+- [emacs](https://www.gnu.org/software/emacs/ "emacs") - An interactive CLI/GUI text editor
 - [entr](https://github.com/eradman/entr "entr") - file watcher: execs shell scripts when a file changes
 - [epy-reader](https://github.com/wustho/epy "epy-reader") - A CLI ebook reader. Supports, epub, mobi and other formats.
 - [fasd](https://github.com/clvv/fasd "fasd") - Smart command to jump quickly to a directory, based on "frecency"
@@ -120,6 +118,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [mpv](https://mpv.io/ "mpv") - A really cool and simple media player
 - [neofetch](https://github.com/dylanaraps/neofetch "neofetch") - CLI tool to get info about your OS
 - [neomutt](https://github.com/neomutt/neomutt "neomutt") - CLI mail client
+- [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
 - [nmap](https://nmap.org/ "nmap") - scan IP ranges on arbitrary ports and get info on open ports
 - [nnn](https://github.com/jarun/nnn "nnn") - Command line file manager
 - [poke](https://www.gnu.org/software/poke/ "poke") - CLI tool to edit binary files
@@ -289,7 +288,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## fuzzy search
 - [broot](https://github.com/Canop/broot "broot") - CLI tool to have a tree view of a folder and its subfolder. provides fuzzy search and a command to change directory
-- [dmenu](https://wiki.archlinux.org/title/Dmenu "dmenu") - Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI
+- [dmenu](https://wiki.archlinux.org/title/Dmenu "dmenu") - Similar to fzf and fzy but the search/select menu works on window manager and not on CLI
 - [fzf](https://github.com/junegunn/fzf "fzf") - CLI command that read lines from stdin, allow you to find and select one with fuzzy search and print it to stdout
 - [fzy](https://github.com/jhawthorn/fzy "fzy") - Same as fzy but slightly different
 - [telescope](https://github.com/nvim-telescope/telescope.nvim "telescope") - neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff
@@ -399,13 +398,20 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [arch linux](https://archlinux.org/ "arch linux") - A lightweight, bleeding edge, minimal, rolling release, KISS, linux distro.
 - [Arch User Repository](https://aur.archlinux.org/ "Arch User Repository") - The community user repository for Arch Linux.
 - [awk](http://awklang.org/ "awk") - CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)
+- [barcode](https://www.gnu.org/software/barcode/ "barcode") - linux CLI tool to create barcodes and save them in various formats
+- [foliate](https://johnfactotum.github.io/foliate/ "foliate") - A lightweight ebook reader for Linux (code on github: https://github.com/johnfactotum/foliate).
 - [grep](https://www.gnu.org/software/grep/ "grep") - CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
+- [pv](https://www.ivarch.com/programs/pv.shtml "pv") - linux CLI command to manage the progress of data
+- [qrencode](https://github.com/fukuchi/libqrencode "qrencode") - linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
 - [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
+- [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
 - [timeshift](https://github.com/linuxmint/timeshift "timeshift") - Linux tool to make incremental snapshots of the file system, available to be restored later
+- [xclip](https://github.com/astrand/xclip "xclip") - linux CLI command to read/write the clipboards
+- [zbar](https://github.com/mchehab/zbar "zbar") - linux CLI application and library for reading bar codes from cameras and images
 
 ## list
 - [awesome blender](https://github.com/agmmnn/awesome-blender "awesome blender") - a list of awesome tools (free and paid) for Blender

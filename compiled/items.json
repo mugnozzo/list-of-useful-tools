@@ -134,9 +134,10 @@
       "description": "linux CLI tool to create barcodes and save them in various formats",
       "tags": [
         "cli",
-        "barcode"
+        "barcode",
+        "linux"
       ],
-      "search": "barcode linux cli tool to create barcodes and save them in various formats cli barcode"
+      "search": "barcode linux cli tool to create barcodes and save them in various formats cli barcode linux"
     },
     {
       "name": "beautifulsoup",
@@ -289,11 +290,11 @@
     {
       "name": "dmenu",
       "url": "https://wiki.archlinux.org/title/Dmenu",
-      "description": "Similar to fzf and fzy but the search/select menu works work on window manager and not on CLI",
+      "description": "Similar to fzf and fzy but the search/select menu works on window manager and not on CLI",
       "tags": [
         "fuzzy search"
       ],
-      "search": "dmenu similar to fzf and fzy but the search/select menu works work on window manager and not on cli fuzzy search"
+      "search": "dmenu similar to fzf and fzy but the search/select menu works on window manager and not on cli fuzzy search"
     },
     {
       "name": "dotfyle.com",
@@ -338,11 +339,12 @@
       "url": "https://www.gnu.org/software/emacs/",
       "description": "An interactive CLI/GUI text editor",
       "tags": [
+        "cli",
         "floss",
         "ide",
         "text editor"
       ],
-      "search": "emacs an interactive cli/gui text editor floss ide text editor"
+      "search": "emacs an interactive cli/gui text editor cli floss ide text editor"
     },
     {
       "name": "endoflife.date",
@@ -444,9 +446,10 @@
       "description": "A lightweight ebook reader for Linux (code on github: https://github.com/johnfactotum/foliate).",
       "tags": [
         "ebook-reader",
-        "floss"
+        "floss",
+        "linux"
       ],
-      "search": "foliate a lightweight ebook reader for linux (code on github: https://github.com/johnfactotum/foliate). ebook-reader floss"
+      "search": "foliate a lightweight ebook reader for linux (code on github: https://github.com/johnfactotum/foliate). ebook-reader floss linux"
     },
     {
       "name": "freecad",
@@ -509,11 +512,10 @@
       "description": "Advanced GUI image editor",
       "tags": [
         "floss",
-        "audio manipulation",
         "graphics",
         "image manipulation"
       ],
-      "search": "gimp advanced gui image editor floss audio manipulation graphics image manipulation"
+      "search": "gimp advanced gui image editor floss graphics image manipulation"
     },
     {
       "name": "gpsvisualizer.com",
@@ -860,12 +862,13 @@
       "url": "https://neovim.io/",
       "description": "CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim",
       "tags": [
+        "cli",
         "floss",
         "ide",
         "no gui",
         "text editor"
       ],
-      "search": "neovim cli advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). it's an improved fork of vim floss ide no gui text editor"
+      "search": "neovim cli advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). it's an improved fork of vim cli floss ide no gui text editor"
     },
     {
       "name": "nmap",
@@ -973,9 +976,10 @@
       "url": "https://www.ivarch.com/programs/pv.shtml",
       "description": "linux CLI command to manage the progress of data",
       "tags": [
-        "cli"
+        "cli",
+        "linux"
       ],
-      "search": "pv linux cli command to manage the progress of data cli"
+      "search": "pv linux cli command to manage the progress of data cli linux"
     },
     {
       "name": "pyphoon",
@@ -992,9 +996,10 @@
       "description": "linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii",
       "tags": [
         "cli",
-        "qrcode"
+        "qrcode",
+        "linux"
       ],
-      "search": "qrencode linux cli tool to create qr codes and save them in various bitmap, vector graphics format or print it in ascii cli qrcode"
+      "search": "qrencode linux cli tool to create qr codes and save them in various bitmap, vector graphics format or print it in ascii cli qrcode linux"
     },
     {
       "name": "qutebrowser",
@@ -1278,12 +1283,12 @@
       "url": "https://tails.boum.org/",
       "description": "A portable distro, focused on privacy and protection against surveillance and censorship",
       "tags": [
-        "anonimity",
+        "anonymity",
         "linux",
         "operating system",
         "security"
       ],
-      "search": "tails a portable distro, focused on privacy and protection against surveillance and censorship anonimity linux operating system security"
+      "search": "tails a portable distro, focused on privacy and protection against surveillance and censorship anonymity linux operating system security"
     },
     {
       "name": "tasker",
@@ -1344,9 +1349,10 @@
         "cli",
         "free or paid",
         "mobile app",
-        "terminal"
+        "terminal",
+        "linux"
       ],
-      "search": "termux emulate a linux cli on your android smartphone cli free or paid mobile app terminal"
+      "search": "termux emulate a linux cli on your android smartphone cli free or paid mobile app terminal linux"
     },
     {
       "name": "termux:tasker",
@@ -1519,9 +1525,10 @@
       "description": "linux CLI command to read/write the clipboards",
       "tags": [
         "cli",
-        "clipboard"
+        "clipboard",
+        "linux"
       ],
-      "search": "xclip linux cli command to read/write the clipboards cli clipboard"
+      "search": "xclip linux cli command to read/write the clipboards cli clipboard linux"
     },
     {
       "name": "xev",
@@ -1569,9 +1576,10 @@
       "description": "linux CLI application and library for reading bar codes from cameras and images",
       "tags": [
         "cli",
-        "barcode"
+        "barcode",
+        "linux"
       ],
-      "search": "zbar linux cli application and library for reading bar codes from cameras and images cli barcode"
+      "search": "zbar linux cli application and library for reading bar codes from cameras and images cli barcode linux"
     },
     {
       "name": "zoxide",
@@ -1584,5 +1592,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-04T17:30:54Z"
+  "generated_at": "2026-09-04T19:36:06Z"
 }
