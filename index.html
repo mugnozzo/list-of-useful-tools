@@ -15,8 +15,7 @@
 
 	<div>
 		<div class="selected-tags" id="selectedTags"></div>
-		<input type="text" id="searchInput" placeholder="Search by name, description or tags..."
-			onkeyup="filterElements()" autofocus>
+		<input type="text" id="searchInput" placeholder="Search by name, description or tags..." autofocus>
 		<div id="allTagsContainer" class="checkboxContainer">
 			<input type="checkbox" id="filterByTags" />
 			<label for="filterByTags">
@@ -25,8 +24,7 @@
 			</label>
 			<div id="allTags"></div>
 		</div>
-		<div id="results-number">
-		</div>
+		<div id="results-number">Loading…</div>
 		<div class="">
 			<ul id="results"></ul>
 		</div>
@@ -39,7 +37,7 @@
 				target="gh_list_new">https://github.com/mugnozzo/list-of-useful-tools</a></p>
 	</footer>
 
-	<script src="data.js"></script>
+	<script src="search.js"></script>
 	<script src="script.js"></script>
 </body>
 
