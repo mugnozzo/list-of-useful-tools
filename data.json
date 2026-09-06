@@ -4,7 +4,7 @@
     "url": "https://github.com/ActivityWatch/activitywatch",
     "description": "monitor your activity, collect data and view stats about your life",
     "tags": [
-      "free of charge",
+      "free-of-charge",
       "watcher",
       "work-tool"
     ]
@@ -155,7 +155,7 @@
     "description": "app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)",
     "tags": [
       "app",
-      "free or paid",
+      "free-or-paid",
       "music",
       "music player"
     ]
@@ -171,7 +171,7 @@
       "3d rendering",
       "3d rigging",
       "floss",
-      "free of charge"
+      "free-of-charge"
     ]
   },
   {
@@ -208,7 +208,7 @@
     "tags": [
       "ai",
       "chat bot",
-      "free or paid"
+      "free-or-paid"
     ]
   },
   {
@@ -245,7 +245,7 @@
     "description": "deep learning model to generate images from a text description",
     "tags": [
       "ai",
-      "free or paid",
+      "free-or-paid",
       "image generation"
     ]
   },
@@ -385,7 +385,7 @@
       "3d",
       "3d rendering",
       "floss",
-      "free of charge"
+      "free-of-charge"
     ]
   },
   {
@@ -414,7 +414,7 @@
       "3d",
       "3d modeling",
       "cad",
-      "free of charge",
+      "free-of-charge",
       "parametric modeling"
     ]
   },
@@ -423,7 +423,6 @@
     "url": "https://github.com/tpope/vim-fugitive",
     "description": "vim plugin to manage git projects",
     "tags": [
-      "(neo)vi(m)",
       "git",
       "vim",
       "vim plugin"
@@ -548,7 +547,7 @@
     "description": "Command line tool to convert images",
     "tags": [
       "cli",
-      "image processing"
+      "image manipulation"
     ]
   },
   {
@@ -1169,7 +1168,7 @@
     "description": "awesome Android app that lets you run tasks when events are triggered",
     "tags": [
       "app",
-      "free or paid"
+      "free-or-paid"
     ]
   },
   {
@@ -1185,7 +1184,6 @@
     "url": "https://github.com/nvim-telescope/telescope.nvim",
     "description": "neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff",
     "tags": [
-      "(neo)vi(m)",
       "fuzzy search",
       "vim",
       "vim plugin"
@@ -1215,7 +1213,7 @@
     "description": "emulate a Linux CLI on your Android smartphone",
     "tags": [
       "cli",
-      "free or paid",
+      "free-or-paid",
       "mobile app",
       "terminal",
       "linux"
@@ -1327,7 +1325,7 @@
     "description": "CLI minimal tool to track your time",
     "tags": [
       "cli",
-      "free of charge",
+      "free-of-charge",
       "time tracker",
       "work-tool"
     ]
@@ -1347,7 +1345,7 @@
     "description": "neural net for speech recognition",
     "tags": [
       "ai",
-      "free of charge",
+      "free-of-charge",
       "speech-to-text"
     ]
   },

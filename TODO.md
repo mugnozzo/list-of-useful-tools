@@ -15,3 +15,5 @@
 - add electron
 - add doublespeakgames.com
 - add https://arcticworldarchive.org/
+- add vial
+- add tor

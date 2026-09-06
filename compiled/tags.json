@@ -1,6 +1,5 @@
 {
   "tags": [
-    "(neo)vi(m)",
     "3d",
     "3d animation",
     "3d modeling",
@@ -47,8 +46,8 @@
     "floss",
     "font",
     "framework",
-    "free of charge",
-    "free or paid",
+    "free-of-charge",
+    "free-or-paid",
     "fuzzy search",
     "game",
     "geolocation",
@@ -63,7 +62,6 @@
     "ide",
     "image generation",
     "image manipulation",
-    "image processing",
     "image visualizer",
     "images",
     "ithkuil",
@@ -132,5 +130,5 @@
     "window manager",
     "work-tool"
   ],
-  "generated_at": "2026-09-04T19:36:06Z"
+  "generated_at": "2026-09-04T21:27:05Z"
 }

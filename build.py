@@ -10,11 +10,18 @@ Reads data.json (the only hand-authored data file) and generates:
                           a tag-grouped body + templates/readme_footer.md
 
 Usage:
-    python3 build.py           validate data.json, then (re)write all
-                                generated files
-    python3 build.py --check   validate data.json and report whether the
-                                generated files are up to date, without
-                                writing anything (exits non-zero if stale)
+    python3 build.py               validate data.json, then (re)write all
+                                    generated files
+    python3 build.py --check       validate data.json and report whether
+                                    the generated files are up to date,
+                                    without writing anything (exits
+                                    non-zero if stale)
+    python3 build.py --check-links validate data.json, then HTTP-check
+                                    every item's url and report any that
+                                    are dead (exits non-zero if any are).
+                                    Writes nothing; network-dependent and
+                                    slow, so it's opt-in, never run as part
+                                    of a plain build.
 
 Stdlib only, no pip dependencies.
 """
@@ -22,6 +29,9 @@ import argparse
 import json
 import re
 import sys
+import urllib.error
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -121,7 +131,7 @@ def build_items_payload(items):
             "name": item["name"],
             "url": item["url"],
             "description": item["description"],
-            "tags": item["tags"],
+            "tags": sorted(item["tags"]),
             "search": build_search_field(item),
         }
         for item in items
@@ -177,11 +187,66 @@ def is_stale(path, fresh_payload, is_json):
     return existing != fresh_payload
 
 
+LINK_CHECK_TIMEOUT = 10
+LINK_CHECK_WORKERS = 16
+LINK_CHECK_USER_AGENT = (
+    "Mozilla/5.0 (compatible; list-of-useful-tools-linkcheck/1.0; "
+    "+https://github.com/mugnozzo/list-of-useful-tools)"
+)
+
+
+def _request(url, method):
+    req = urllib.request.Request(url, method=method, headers={"User-Agent": LINK_CHECK_USER_AGENT})
+    with urllib.request.urlopen(req, timeout=LINK_CHECK_TIMEOUT) as resp:
+        return resp.status
+
+
+def check_one_link(item):
+    """Return (name, url, ok, reason). reason is None when ok is True."""
+    name, url = item["name"], item["url"]
+    try:
+        status = _request(url, "HEAD")
+        return (name, url, 200 <= status < 400, f"HTTP {status}")
+    except urllib.error.HTTPError as e:
+        if e.code == 405:  # method not allowed - some servers reject HEAD, retry with GET
+            try:
+                status = _request(url, "GET")
+                return (name, url, 200 <= status < 400, f"HTTP {status}")
+            except urllib.error.HTTPError as e2:
+                return (name, url, False, f"HTTP {e2.code}")
+            except urllib.error.URLError as e2:
+                return (name, url, False, str(e2.reason))
+        return (name, url, 200 <= e.code < 400, f"HTTP {e.code}")
+    except urllib.error.URLError as e:
+        return (name, url, False, str(e.reason))
+    except (TimeoutError, OSError) as e:
+        return (name, url, False, str(e))
+
+
+def check_links(items):
+    """HTTP-check every item's url concurrently. Returns True if all are OK."""
+    results = []
+    with ThreadPoolExecutor(max_workers=LINK_CHECK_WORKERS) as pool:
+        for result in pool.map(check_one_link, items):
+            results.append(result)
+
+    dead = [r for r in results if not r[2]]
+    for name, url, _ok, reason in sorted(dead, key=lambda r: r[0].lower()):
+        print(f"  DEAD  {name}: {url} ({reason})")
+
+    print(f"\n{len(results) - len(dead)}/{len(results)} links OK.")
+    return not dead
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument(
         "--check", action="store_true",
         help="validate and report whether generated files are up to date, without writing",
+    )
+    parser.add_argument(
+        "--check-links", action="store_true",
+        help="validate, then HTTP-check every item's url and report dead links, without writing",
     )
     args = parser.parse_args()
 
@@ -192,6 +257,10 @@ def main():
         for e in errors:
             print(f"  - {e}", file=sys.stderr)
         sys.exit(1)
+
+    if args.check_links:
+        all_ok = check_links(items)
+        sys.exit(0 if all_ok else 1)
 
     items_payload = build_items_payload(items)
     tags_payload = build_tags_payload(items)

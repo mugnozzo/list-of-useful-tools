@@ -6,11 +6,11 @@
       "url": "https://github.com/ActivityWatch/activitywatch",
       "description": "monitor your activity, collect data and view stats about your life",
       "tags": [
-        "free of charge",
+        "free-of-charge",
         "watcher",
         "work-tool"
       ],
-      "search": "activitywatch monitor your activity, collect data and view stats about your life free of charge watcher work-tool"
+      "search": "activitywatch monitor your activity, collect data and view stats about your life free-of-charge watcher work-tool"
     },
     {
       "name": "adminer",
@@ -133,8 +133,8 @@
       "url": "https://www.gnu.org/software/barcode/",
       "description": "linux CLI tool to create barcodes and save them in various formats",
       "tags": [
-        "cli",
         "barcode",
+        "cli",
         "linux"
       ],
       "search": "barcode linux cli tool to create barcodes and save them in various formats cli barcode linux"
@@ -173,11 +173,11 @@
       "description": "app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)",
       "tags": [
         "app",
-        "free or paid",
+        "free-or-paid",
         "music",
         "music player"
       ],
-      "search": "black player app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex) app free or paid music music player"
+      "search": "black player app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex) app free-or-paid music music player"
     },
     {
       "name": "blender",
@@ -190,9 +190,9 @@
         "3d rendering",
         "3d rigging",
         "floss",
-        "free of charge"
+        "free-of-charge"
       ],
-      "search": "blender advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc... 3d 3d animation 3d modeling 3d rendering 3d rigging floss free of charge"
+      "search": "blender advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc... 3d 3d animation 3d modeling 3d rendering 3d rigging floss free-of-charge"
     },
     {
       "name": "broot",
@@ -231,9 +231,9 @@
       "tags": [
         "ai",
         "chat bot",
-        "free or paid"
+        "free-or-paid"
       ],
-      "search": "chatgpt artificial intelligence chatbot ai chat bot free or paid"
+      "search": "chatgpt artificial intelligence chatbot ai chat bot free-or-paid"
     },
     {
       "name": "clozemaster",
@@ -272,10 +272,10 @@
       "description": "deep learning model to generate images from a text description",
       "tags": [
         "ai",
-        "free or paid",
+        "free-or-paid",
         "image generation"
       ],
-      "search": "dall-e deep learning model to generate images from a text description ai free or paid image generation"
+      "search": "dall-e deep learning model to generate images from a text description ai free-or-paid image generation"
     },
     {
       "name": "dict.cc",
@@ -371,8 +371,8 @@
       "url": "https://github.com/ether/etherpad-lite",
       "description": "A real-time, collaborative, web-based document editor.",
       "tags": [
-        "floss",
-        "document editor"
+        "document editor",
+        "floss"
       ],
       "search": "etherpad a real-time, collaborative, web-based document editor. floss document editor"
     },
@@ -410,9 +410,9 @@
       "url": "https://ffmpeg.org/",
       "description": "Command line tool to manage/convert video/audio/subtitles streams",
       "tags": [
+        "audio",
         "cli",
         "floss",
-        "audio",
         "media manipulation",
         "multimedia",
         "video"
@@ -427,9 +427,9 @@
         "3d",
         "3d rendering",
         "floss",
-        "free of charge"
+        "free-of-charge"
       ],
-      "search": "flamenco render management software for blender 3d 3d rendering floss free of charge"
+      "search": "flamenco render management software for blender 3d 3d rendering floss free-of-charge"
     },
     {
       "name": "flameshot",
@@ -459,22 +459,21 @@
         "3d",
         "3d modeling",
         "cad",
-        "free of charge",
+        "free-of-charge",
         "parametric modeling"
       ],
-      "search": "freecad 3d parametric modeling software 3d 3d modeling cad free of charge parametric modeling"
+      "search": "freecad 3d parametric modeling software 3d 3d modeling cad free-of-charge parametric modeling"
     },
     {
       "name": "fugitive",
       "url": "https://github.com/tpope/vim-fugitive",
       "description": "vim plugin to manage git projects",
       "tags": [
-        "(neo)vi(m)",
         "git",
         "vim",
         "vim plugin"
       ],
-      "search": "fugitive vim plugin to manage git projects (neo)vi(m) git vim vim plugin"
+      "search": "fugitive vim plugin to manage git projects git vim vim plugin"
     },
     {
       "name": "fzf",
@@ -522,9 +521,9 @@
       "url": "https://www.gpsvisualizer.com/",
       "description": "A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...",
       "tags": [
+        "geolocation",
         "gps",
         "gpx",
-        "geolocation",
         "map"
       ],
       "search": "gpsvisualizer.com a website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ... gps gpx geolocation map"
@@ -535,9 +534,9 @@
       "description": "Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (code on github: https://github.com/tumic0/GPXSee)",
       "tags": [
         "floss",
+        "geolocation",
         "gps",
         "gpx",
-        "geolocation",
         "map"
       ],
       "search": "gpxsee qt-based gps log file viewer and analyzer that supports all common gps log file formats (code on github: https://github.com/tumic0/gpxsee) floss gps gpx geolocation map"
@@ -568,8 +567,8 @@
       "url": "https://github.com/alexandervdm/gummi",
       "description": "Latex editor with splitted screen: on the left you see the Latex code, on the right the rendered page",
       "tags": [
-        "text editor",
-        "latex"
+        "latex",
+        "text editor"
       ],
       "search": "gummi latex editor with splitted screen: on the left you see the latex code, on the right the rendered page text editor latex"
     },
@@ -607,9 +606,9 @@
       "description": "Command line tool to convert images",
       "tags": [
         "cli",
-        "image processing"
+        "image manipulation"
       ],
-      "search": "imagemagick command line tool to convert images cli image processing"
+      "search": "imagemagick command line tool to convert images cli image manipulation"
     },
     {
       "name": "inkscape",
@@ -644,8 +643,8 @@
       "url": "https://www.ithkuil.net/",
       "description": "A constructed logical language made to minimize semantic ambiguity",
       "tags": [
-        "languages",
-        "ithkuil"
+        "ithkuil",
+        "languages"
       ],
       "search": "ithkuil a constructed logical language made to minimize semantic ambiguity languages ithkuil"
     },
@@ -712,8 +711,8 @@
       "url": "https://librewolf.net/",
       "description": "fork of Firefox, focused on privacy, security and freedom",
       "tags": [
-        "floss",
         "firefox",
+        "floss",
         "web browser"
       ],
       "search": "librewolf fork of firefox, focused on privacy, security and freedom floss firefox web browser"
@@ -767,8 +766,8 @@
       "description": "Command line, orthodox file manager",
       "tags": [
         "cli",
-        "floss",
-        "file manager"
+        "file manager",
+        "floss"
       ],
       "search": "midnight commander command line, orthodox file manager cli floss file manager"
     },
@@ -885,8 +884,8 @@
       "description": "Command line file manager",
       "tags": [
         "cli",
-        "floss",
-        "file manager"
+        "file manager",
+        "floss"
       ],
       "search": "nnn command line file manager cli floss file manager"
     },
@@ -915,9 +914,9 @@
       "description": "A website where you can navigate a map of the entire planet",
       "tags": [
         "floss",
+        "geolocation",
         "gps",
         "gpx",
-        "geolocation",
         "map"
       ],
       "search": "openstreetmaps a website where you can navigate a map of the entire planet floss gps gpx geolocation map"
@@ -996,8 +995,8 @@
       "description": "linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii",
       "tags": [
         "cli",
-        "qrcode",
-        "linux"
+        "linux",
+        "qrcode"
       ],
       "search": "qrencode linux cli tool to create qr codes and save them in various bitmap, vector graphics format or print it in ascii cli qrcode linux"
     },
@@ -1018,8 +1017,8 @@
       "description": "Command line file manager",
       "tags": [
         "cli",
-        "floss",
-        "file manager"
+        "file manager",
+        "floss"
       ],
       "search": "ranger command line file manager cli floss file manager"
     },
@@ -1090,8 +1089,8 @@
       "url": "https://breakfastquay.com/rubberband/",
       "description": "Command line tool to time-stretch and pitch-shift audio files",
       "tags": [
-        "cli",
-        "audio"
+        "audio",
+        "cli"
       ],
       "search": "rubberband command line tool to time-stretch and pitch-shift audio files cli audio"
     },
@@ -1100,8 +1099,8 @@
       "url": "https://github.com/Genymobile/scrcpy",
       "description": "a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse",
       "tags": [
-        "floss",
         "android",
+        "floss",
         "linux"
       ],
       "search": "scrcpy a tool to project your android smartphone screen on your pc and interact with it with keyboard and mouse floss android linux"
@@ -1296,9 +1295,9 @@
       "description": "awesome Android app that lets you run tasks when events are triggered",
       "tags": [
         "app",
-        "free or paid"
+        "free-or-paid"
       ],
-      "search": "tasker awesome android app that lets you run tasks when events are triggered app free or paid"
+      "search": "tasker awesome android app that lets you run tasks when events are triggered app free-or-paid"
     },
     {
       "name": "tatoeba",
@@ -1314,12 +1313,11 @@
       "url": "https://github.com/nvim-telescope/telescope.nvim",
       "description": "neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff",
       "tags": [
-        "(neo)vi(m)",
         "fuzzy search",
         "vim",
         "vim plugin"
       ],
-      "search": "telescope neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff (neo)vi(m) fuzzy search vim vim plugin"
+      "search": "telescope neovim plugin that through fuzzy search allows you to quickly jump to a file, perform grep searches and jump to the result, see git commits and a lot of other stuff fuzzy search vim vim plugin"
     },
     {
       "name": "temp.sh",
@@ -1347,12 +1345,12 @@
       "description": "emulate a Linux CLI on your Android smartphone",
       "tags": [
         "cli",
-        "free or paid",
+        "free-or-paid",
+        "linux",
         "mobile app",
-        "terminal",
-        "linux"
+        "terminal"
       ],
-      "search": "termux emulate a linux cli on your android smartphone cli free or paid mobile app terminal linux"
+      "search": "termux emulate a linux cli on your android smartphone cli free-or-paid mobile app terminal linux"
     },
     {
       "name": "termux:tasker",
@@ -1427,8 +1425,8 @@
       "url": "https://www.ventoy.net/en/index.html",
       "description": "A Free and Open Source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/Ventoy)",
       "tags": [
-        "floss",
-        "boot"
+        "boot",
+        "floss"
       ],
       "search": "ventoy a free and open source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/ventoy) floss boot"
     },
@@ -1438,8 +1436,8 @@
       "description": "A CLI tool to manage filenames (or even delete files) inside a text editor.",
       "tags": [
         "cli",
-        "floss",
-        "file renamer"
+        "file renamer",
+        "floss"
       ],
       "search": "vidir a cli tool to manage filenames (or even delete files) inside a text editor. cli floss file renamer"
     },
@@ -1449,8 +1447,8 @@
       "description": "Command line file manager",
       "tags": [
         "cli",
-        "floss",
-        "file manager"
+        "file manager",
+        "floss"
       ],
       "search": "vifm command line file manager cli floss file manager"
     },
@@ -1459,9 +1457,9 @@
       "url": "https://www.vimgolf.com/",
       "description": "A game/challenge where you have to do tasks in vim using as few keystrokes as possible",
       "tags": [
+        "challenge",
         "game",
-        "vim",
-        "challenge"
+        "vim"
       ],
       "search": "vimgolf a game/challenge where you have to do tasks in vim using as few keystrokes as possible game vim challenge"
     },
@@ -1471,11 +1469,11 @@
       "description": "CLI minimal tool to track your time",
       "tags": [
         "cli",
-        "free of charge",
+        "free-of-charge",
         "time tracker",
         "work-tool"
       ],
-      "search": "watson cli minimal tool to track your time cli free of charge time tracker work-tool"
+      "search": "watson cli minimal tool to track your time cli free-of-charge time tracker work-tool"
     },
     {
       "name": "what3words",
@@ -1493,10 +1491,10 @@
       "description": "neural net for speech recognition",
       "tags": [
         "ai",
-        "free of charge",
+        "free-of-charge",
         "speech-to-text"
       ],
-      "search": "whisper neural net for speech recognition ai free of charge speech-to-text"
+      "search": "whisper neural net for speech recognition ai free-of-charge speech-to-text"
     },
     {
       "name": "word reference",
@@ -1536,8 +1534,8 @@
       "description": "Bash command to detect and print X events (mouse movements and clicks, keyboard events, ...)",
       "tags": [
         "cli",
-        "mouse",
-        "keyboard"
+        "keyboard",
+        "mouse"
       ],
       "search": "xev bash command to detect and print x events (mouse movements and clicks, keyboard events, ...) cli mouse keyboard"
     },
@@ -1575,8 +1573,8 @@
       "url": "https://github.com/mchehab/zbar",
       "description": "linux CLI application and library for reading bar codes from cameras and images",
       "tags": [
-        "cli",
         "barcode",
+        "cli",
         "linux"
       ],
       "search": "zbar linux cli application and library for reading bar codes from cameras and images cli barcode linux"
@@ -1592,5 +1590,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-04T19:36:06Z"
+  "generated_at": "2026-09-04T21:27:05Z"
 }

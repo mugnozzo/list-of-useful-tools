@@ -13,9 +13,26 @@
 		<h1>List of useful tools</h1>
 	</header>
 
+	<details id="howToUse">
+		<summary>How to use this list</summary>
+		<p>Type to search by name, description, or tag — matches don't need to be an exact or
+			contiguous substring, just the letters in order. Click any tag to filter by it; combine
+			multiple tags to narrow further, and click the &times; on a selected tag to remove it.
+			"Show tags" lists every tag in the collection, to browse instead of search. "Sort
+			alphabetically" switches the result order from best-match-first to A&ndash;Z. "Reset"
+			clears the search box and all selected tags.</p>
+	</details>
+
 	<div>
 		<div class="selected-tags" id="selectedTags"></div>
 		<input type="text" id="searchInput" placeholder="Fuzzy search by name, description or tags..." autofocus>
+		<div class="controls">
+			<button type="button" id="resetButton" class="button">Reset</button>
+			<label for="sortAlphabetically" class="checkbox-label">
+				<input type="checkbox" id="sortAlphabetically" />
+				Sort alphabetically
+			</label>
+		</div>
 		<div id="allTagsContainer" class="checkboxContainer">
 			<input type="checkbox" id="filterByTags" />
 			<label for="filterByTags">

@@ -144,3 +144,39 @@ input[type="checkbox"] {
 	color: red;
 	margin-left: 5px;
 }
+
+#howToUse {
+	margin: 10px 0;
+	color: #cccccc;
+}
+
+#howToUse summary {
+	cursor: pointer;
+	color: #76ff03;
+}
+
+#howToUse p {
+	margin: 10px 0 0;
+}
+
+.controls {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin: 5px 0;
+}
+
+.checkbox-label {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	color: #aaaaaa;
+	cursor: pointer;
+}
+
+button.button {
+	font: inherit;
+	cursor: pointer;
+	color: #ffffff;
+}

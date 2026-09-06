@@ -24,6 +24,8 @@ function main() {
 	const allTagsPanel = document.getElementById("allTags");
 	const selectedTagsContainer = document.getElementById("selectedTags");
 	const resultsNumber = document.getElementById("results-number");
+	const resetButton = document.getElementById("resetButton");
+	const sortAlphabeticallyCheckbox = document.getElementById("sortAlphabetically");
 
 	function addSelectedTag(tag) {
 		if (state.selectedTags.includes(tag)) return;
@@ -45,7 +47,10 @@ function main() {
 				? state.items
 				: state.items.filter((item) => state.selectedTags.every((tag) => item.tags.includes(tag)));
 
-		const results = rankItems(query, candidates);
+		let results = rankItems(query, candidates);
+		if (sortAlphabeticallyCheckbox.checked) {
+			results = [...results].sort((a, b) => a.name.localeCompare(b.name));
+		}
 
 		const fragment = document.createDocumentFragment();
 		for (const item of results) {
@@ -75,6 +80,14 @@ function main() {
 	});
 
 	searchInput.addEventListener("input", renderResults);
+	sortAlphabeticallyCheckbox.addEventListener("change", renderResults);
+
+	resetButton.addEventListener("click", () => {
+		searchInput.value = "";
+		state.selectedTags = [];
+		renderSelectedTags(selectedTagsContainer, state.selectedTags);
+		renderResults();
+	});
 
 	loadData()
 		.then(({ items, tags }) => {
