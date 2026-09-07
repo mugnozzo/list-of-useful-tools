@@ -27,8 +27,12 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## ai
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
+- [claude](https://claude.ai/ "claude") - artificial intelligence chatbot by Anthropic
 - [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
+- [gemini](https://gemini.google.com/ "gemini") - artificial intelligence chatbot by Google
+- [lumo](https://lumo.proton.me/ "lumo") - privacy-focused artificial intelligence chatbot by Proton
 - [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
+- [perchance](https://perchance.org/ "perchance") - a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators
 - [phind](https://www.phind.com/ "phind") - AI search engine for developers
 - [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
 
@@ -89,6 +93,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## chat bot
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
+- [claude](https://claude.ai/ "claude") - artificial intelligence chatbot by Anthropic
+- [gemini](https://gemini.google.com/ "gemini") - artificial intelligence chatbot by Google
+- [lumo](https://lumo.proton.me/ "lumo") - privacy-focused artificial intelligence chatbot by Proton
 
 ## cli
 - [aerc](https://aerc-mail.org/ "aerc") - CLI mail client
@@ -278,7 +285,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## free-or-paid
 - [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "black player") - app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)
 - [chatgpt](https://chat.openai.com/ "chatgpt") - artificial intelligence chatbot
+- [claude](https://claude.ai/ "claude") - artificial intelligence chatbot by Anthropic
 - [dall-e](https://labs.openai.com/ "dall-e") - deep learning model to generate images from a text description
+- [gemini](https://gemini.google.com/ "gemini") - artificial intelligence chatbot by Google
+- [lumo](https://lumo.proton.me/ "lumo") - privacy-focused artificial intelligence chatbot by Proton
 - [tasker](https://tasker.joaoapps.com/ "tasker") - awesome Android app that lets you run tasks when events are triggered
 - [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
 
@@ -610,6 +620,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [advent of code](https://adventofcode.com/ "advent of code") - annual set of programming challenges following the Advent calendar and Christmas-themed
 - [endoflife.date](https://endoflife.date/ "endoflife.date") - A website collecting the information about lifecycles of various products.
 - [mozilla common voice](https://commonvoice.mozilla.org/ "mozilla common voice") - a project to collect voices to train machines
+- [perchance](https://perchance.org/ "perchance") - a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators
 - [what3words](https://what3words.com/ "what3words") - A website that allows you to describe any place in the world with 3 words. It divides the whole world in 3x3 squares and identify each square with 3 words.
 
 ## window manager

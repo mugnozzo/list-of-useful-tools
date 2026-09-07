@@ -212,6 +212,16 @@
     ]
   },
   {
+    "name": "claude",
+    "url": "https://claude.ai/",
+    "description": "artificial intelligence chatbot by Anthropic",
+    "tags": [
+      "ai",
+      "chat bot",
+      "free-or-paid"
+    ]
+  },
+  {
     "name": "clozemaster",
     "url": "https://www.clozemaster.com/",
     "description": "a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it uses TTS to hear pronunciation and a learn-and-review method; it has both free and paid versions",
@@ -447,6 +457,16 @@
     ]
   },
   {
+    "name": "gemini",
+    "url": "https://gemini.google.com/",
+    "description": "artificial intelligence chatbot by Google",
+    "tags": [
+      "ai",
+      "chat bot",
+      "free-or-paid"
+    ]
+  },
+  {
     "name": "ghostwriter",
     "url": "https://github.com/KDE/ghostwriter",
     "description": "An editor for markdown files",
@@ -676,6 +696,16 @@
     ]
   },
   {
+    "name": "lumo",
+    "url": "https://lumo.proton.me/",
+    "description": "privacy-focused artificial intelligence chatbot by Proton",
+    "tags": [
+      "ai",
+      "chat bot",
+      "free-or-paid"
+    ]
+  },
+  {
     "name": "mastodon",
     "url": "https://joinmastodon.org/",
     "description": "Social network part of the Fediverse and name of the software that run the social network service",
@@ -828,6 +858,15 @@
       "gpx",
       "geolocation",
       "map"
+    ]
+  },
+  {
+    "name": "perchance",
+    "url": "https://perchance.org/",
+    "description": "a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators",
+    "tags": [
+      "ai",
+      "website"
     ]
   },
   {

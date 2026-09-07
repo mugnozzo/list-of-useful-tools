@@ -1,5 +1,5 @@
 {
-  "count": 154,
+  "count": 158,
   "items": [
     {
       "name": "activitywatch",
@@ -234,6 +234,17 @@
         "free-or-paid"
       ],
       "search": "chatgpt artificial intelligence chatbot ai chat bot free-or-paid"
+    },
+    {
+      "name": "claude",
+      "url": "https://claude.ai/",
+      "description": "artificial intelligence chatbot by Anthropic",
+      "tags": [
+        "ai",
+        "chat bot",
+        "free-or-paid"
+      ],
+      "search": "claude artificial intelligence chatbot by anthropic ai chat bot free-or-paid"
     },
     {
       "name": "clozemaster",
@@ -496,6 +507,17 @@
       "search": "fzy same as fzy but slightly different cli fuzzy search"
     },
     {
+      "name": "gemini",
+      "url": "https://gemini.google.com/",
+      "description": "artificial intelligence chatbot by Google",
+      "tags": [
+        "ai",
+        "chat bot",
+        "free-or-paid"
+      ],
+      "search": "gemini artificial intelligence chatbot by google ai chat bot free-or-paid"
+    },
+    {
       "name": "ghostwriter",
       "url": "https://github.com/KDE/ghostwriter",
       "description": "An editor for markdown files",
@@ -750,6 +772,17 @@
       "search": "lojban.org lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity languages lojban"
     },
     {
+      "name": "lumo",
+      "url": "https://lumo.proton.me/",
+      "description": "privacy-focused artificial intelligence chatbot by Proton",
+      "tags": [
+        "ai",
+        "chat bot",
+        "free-or-paid"
+      ],
+      "search": "lumo privacy-focused artificial intelligence chatbot by proton ai chat bot free-or-paid"
+    },
+    {
       "name": "mastodon",
       "url": "https://joinmastodon.org/",
       "description": "Social network part of the Fediverse and name of the software that run the social network service",
@@ -920,6 +953,16 @@
         "map"
       ],
       "search": "openstreetmaps a website where you can navigate a map of the entire planet floss gps gpx geolocation map"
+    },
+    {
+      "name": "perchance",
+      "url": "https://perchance.org/",
+      "description": "a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators",
+      "tags": [
+        "ai",
+        "website"
+      ],
+      "search": "perchance a collection of ai-powered random generators made by the community, including text-to-image, story, and character generators ai website"
     },
     {
       "name": "phind",
@@ -1590,5 +1633,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-04T21:27:05Z"
+  "generated_at": "2026-09-07T09:45:32Z"
 }
