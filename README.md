@@ -37,7 +37,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [whisper](https://openai.com/research/whisper "whisper") - neural net for speech recognition
 
 ## android
+- [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "black player") - app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
+- [tasker](https://tasker.joaoapps.com/ "tasker") - awesome Android app that lets you run tasks when events are triggered
+- [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
+- [termux:tasker](https://github.com/termux/termux-tasker "termux:tasker") - Tasker plugin to execute termux commands/scripts as activities
 
 ## anonymity
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
@@ -177,8 +181,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 
 ## decentralized
+- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
+- [mastodon](https://joinmastodon.org/ "mastodon") - Social network part of the Fediverse and name of the software that run the social network service
 - [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
+- [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 
 ## desktop publishing
 - [scribus](https://www.scribus.net/ "scribus") - publishing software
@@ -482,8 +489,14 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 
 ## network
+- [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
 - [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [mullvad](https://mullvad.net/ "mullvad") - vpn service base in Sweden. You can pay with several methods, including cryptocurrencies and cash
+- [nmap](https://nmap.org/ "nmap") - scan IP ranges on arbitrary ports and get info on open ports
+- [protonvpn](https://protonvpn.com/ "protonvpn") - vpn service offered by Proton AG
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
+- [ssh tunnels](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ "ssh tunnels") - an article which explain how the 3 types of tunnels work and how to use them
+- [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 
 ## no gui
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
@@ -545,6 +558,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## security
 - [haveibeenpwned.com](https://haveibeenpwned.com/ "haveibeenpwned.com") - A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach
 - [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [nmap](https://nmap.org/ "nmap") - scan IP ranges on arbitrary ports and get info on open ports
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
 

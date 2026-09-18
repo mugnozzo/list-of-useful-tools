@@ -154,6 +154,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree",
     "description": "app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)",
     "tags": [
+      "android",
       "app",
       "free-or-paid",
       "music",
@@ -592,6 +593,8 @@
     "url": "https://ipfs.tech/",
     "description": "InterPlanetary File System - A peer-to-peer hypermedia protocol",
     "tags": [
+      "decentralized",
+      "network",
       "protocol"
     ]
   },
@@ -710,6 +713,7 @@
     "url": "https://joinmastodon.org/",
     "description": "Social network part of the Fediverse and name of the software that run the social network service",
     "tags": [
+      "decentralized",
       "fediverse",
       "floss",
       "social network"
@@ -778,6 +782,7 @@
     "url": "https://mullvad.net/",
     "description": "vpn service base in Sweden. You can pay with several methods, including cryptocurrencies and cash",
     "tags": [
+      "network",
       "vpn"
     ]
   },
@@ -831,7 +836,9 @@
     "url": "https://nmap.org/",
     "description": "scan IP ranges on arbitrary ports and get info on open ports",
     "tags": [
-      "cli"
+      "cli",
+      "network",
+      "security"
     ]
   },
   {
@@ -923,6 +930,7 @@
     "url": "https://protonvpn.com/",
     "description": "vpn service offered by Proton AG",
     "tags": [
+      "network",
       "vpn"
     ]
   },
@@ -1168,6 +1176,7 @@
     "url": "https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/",
     "description": "an article which explain how the 3 types of tunnels work and how to use them",
     "tags": [
+      "network",
       "ssh"
     ]
   },
@@ -1212,7 +1221,9 @@
     "description": "Keep folder pairs synchronized on different devices (available for different operative systems, including Android)",
     "tags": [
       "app",
+      "decentralized",
       "file synchronization",
+      "network",
       "web gui"
     ]
   },
@@ -1232,6 +1243,7 @@
     "url": "https://tasker.joaoapps.com/",
     "description": "awesome Android app that lets you run tasks when events are triggered",
     "tags": [
+      "android",
       "app",
       "free-or-paid"
     ]
@@ -1277,6 +1289,7 @@
     "url": "https://github.com/termux/termux-app",
     "description": "emulate a Linux CLI on your Android smartphone",
     "tags": [
+      "android",
       "cli",
       "free-or-paid",
       "mobile app",
@@ -1289,6 +1302,7 @@
     "url": "https://github.com/termux/termux-tasker",
     "description": "Tasker plugin to execute termux commands/scripts as activities",
     "tags": [
+      "android",
       "paid"
     ]
   },
