@@ -1,5 +1,5 @@
 {
-  "count": 163,
+  "count": 164,
   "items": [
     {
       "name": "activitywatch",
@@ -668,10 +668,11 @@
       "url": "https://www.ithkuil.net/",
       "description": "A constructed logical language made to minimize semantic ambiguity",
       "tags": [
+        "conlang",
         "ithkuil",
         "languages"
       ],
-      "search": "ithkuil a constructed logical language made to minimize semantic ambiguity languages ithkuil"
+      "search": "ithkuil a constructed logical language made to minimize semantic ambiguity conlang languages ithkuil"
     },
     {
       "name": "jc",
@@ -765,14 +766,15 @@
       "search": "lojban - the incomplete lojban language the community version of the complete lojban language. single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. project on github (pdf/epub downloads and diffs from the official cll): https://github.com/la-lojban/uncll languages lojban"
     },
     {
-      "name": "lojban.org",
+      "name": "lojban",
       "url": "https://mw.lojban.org/",
       "description": "Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity",
       "tags": [
+        "conlang",
         "languages",
         "lojban"
       ],
-      "search": "lojban.org lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity languages lojban"
+      "search": "lojban lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity conlang languages lojban"
     },
     {
       "name": "lumo",
@@ -1501,6 +1503,17 @@
       "search": "tmux cli terminal multiplexer. it allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-gui session) cli floss terminal multiplexer"
     },
     {
+      "name": "toki pona",
+      "url": "https://tokipona.org/",
+      "description": "a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought",
+      "tags": [
+        "conlang",
+        "languages",
+        "toki pona"
+      ],
+      "search": "toki pona a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought conlang languages toki pona"
+    },
+    {
       "name": "transfer.sh",
       "url": "https://transfer.sh",
       "description": "Online tool to transfer files from/to command line or browser (code on github: https://github.com/dutchcoders/transfer.sh; web client: https://github.com/dutchcoders/transfer.sh-web)",
@@ -1711,5 +1724,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-18T16:59:43Z"
+  "generated_at": "2026-09-18T20:37:52Z"
 }
