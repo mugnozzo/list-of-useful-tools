@@ -708,10 +708,11 @@
       "url": "https://la-lojban.github.io/sutysisku/en/",
       "description": "A lojban online dictionary (code on github: https://github.com/La-Lojban/sutysisku/)",
       "tags": [
+        "conlang",
         "languages",
         "lojban"
       ],
-      "search": "la sutysisku a lojban online dictionary (code on github: https://github.com/la-lojban/sutysisku/) languages lojban"
+      "search": "la sutysisku a lojban online dictionary (code on github: https://github.com/la-lojban/sutysisku/) conlang languages lojban"
     },
     {
       "name": "learn x in y minutes",
@@ -760,10 +761,11 @@
       "url": "https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html",
       "description": "The community version of the Complete lojban language. Single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. Project on GitHub (PDF/ePub downloads and diffs from the official CLL): https://github.com/La-Lojban/uncll",
       "tags": [
+        "conlang",
         "languages",
         "lojban"
       ],
-      "search": "lojban - the incomplete lojban language the community version of the complete lojban language. single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. project on github (pdf/epub downloads and diffs from the official cll): https://github.com/la-lojban/uncll languages lojban"
+      "search": "lojban - the incomplete lojban language the community version of the complete lojban language. single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. project on github (pdf/epub downloads and diffs from the official cll): https://github.com/la-lojban/uncll conlang languages lojban"
     },
     {
       "name": "lojban",
@@ -1724,5 +1726,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-18T20:37:52Z"
+  "generated_at": "2026-09-18T20:56:00Z"
 }

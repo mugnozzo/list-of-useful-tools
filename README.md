@@ -175,7 +175,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## conlang
 - [ithkuil](https://www.ithkuil.net/ "ithkuil") - A constructed logical language made to minimize semantic ambiguity
+- [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban online dictionary (code on github: https://github.com/La-Lojban/sutysisku/)
 - [lojban](https://mw.lojban.org/ "lojban") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
+- [Lojban - The Incomplete Lojban Language](https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html "Lojban - The Incomplete Lojban Language") - The community version of the Complete lojban language. Single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. Project on GitHub (PDF/ePub downloads and diffs from the official CLL): https://github.com/La-Lojban/uncll
 - [toki pona](https://tokipona.org/ "toki pona") - a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought
 
 ## database
