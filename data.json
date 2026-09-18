@@ -603,6 +603,7 @@
     "url": "https://www.ithkuil.net/",
     "description": "A constructed logical language made to minimize semantic ambiguity",
     "tags": [
+      "conlang",
       "languages",
       "ithkuil"
     ]
@@ -690,10 +691,11 @@
     ]
   },
   {
-    "name": "lojban.org",
+    "name": "lojban",
     "url": "https://mw.lojban.org/",
     "description": "Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity",
     "tags": [
+      "conlang",
       "languages",
       "lojban"
     ]
@@ -1353,6 +1355,16 @@
       "cli",
       "floss",
       "terminal multiplexer"
+    ]
+  },
+  {
+    "name": "toki pona",
+    "url": "https://tokipona.org/",
+    "description": "a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought",
+    "tags": [
+      "conlang",
+      "languages",
+      "toki pona"
     ]
   },
   {

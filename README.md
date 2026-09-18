@@ -173,6 +173,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## comparison
 - [thetruesize.com](https://thetruesize.com "thetruesize.com") - A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.
 
+## conlang
+- [ithkuil](https://www.ithkuil.net/ "ithkuil") - A constructed logical language made to minimize semantic ambiguity
+- [lojban](https://mw.lojban.org/ "lojban") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
+- [toki pona](https://tokipona.org/ "toki pona") - a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought
+
 ## database
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 - [redis](https://redis.io/ "redis") - REmote DIctionary Server - an in-memory data structure store
@@ -398,13 +403,14 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [dict.cc](https://www.dict.cc/ "dict.cc") - An online dictionary (from/to English and German to/from a lot of languages) mantained by everybody (there is a forum too)
 - [ithkuil](https://www.ithkuil.net/ "ithkuil") - A constructed logical language made to minimize semantic ambiguity
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban online dictionary (code on github: https://github.com/La-Lojban/sutysisku/)
+- [lojban](https://mw.lojban.org/ "lojban") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
 - [Lojban - The Incomplete Lojban Language](https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html "Lojban - The Incomplete Lojban Language") - The community version of the Complete lojban language. Single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. Project on GitHub (PDF/ePub downloads and diffs from the official CLL): https://github.com/La-Lojban/uncll
-- [lojban.org](https://mw.lojban.org/ "lojban.org") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
 - [pimsleur](https://www.pimsleur.com/ "pimsleur") - A method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation
 - [refold](https://refold.la/ "refold") - a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency
 - [speakly](https://speakly.me/en "speakly") - a method/website/app to learn foreign languages (it currently has 8 languages available) by learning the 4000 most frequent words/expressions/sentences in the target languages with listening/speaking/flashcard exercises
 - [stofnun árna magnússonar](https://arnastofnun.is "stofnun árna magnússonar") - Árna Magnússon's Foundation for Icelandic Studies
 - [tatoeba](https://tatoeba.org/en/ "tatoeba") - A collection of sentences translated in multiple languages. You can contribute with new sentences or by reviewing existing ones
+- [toki pona](https://tokipona.org/ "toki pona") - a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought
 - [word reference](https://www.wordreference.com/ "word reference") - An online dictionary (there is a forum too)
 
 ## latex
@@ -445,8 +451,8 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## lojban
 - [la sutysisku](https://la-lojban.github.io/sutysisku/en/ "la sutysisku") - A lojban online dictionary (code on github: https://github.com/La-Lojban/sutysisku/)
+- [lojban](https://mw.lojban.org/ "lojban") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
 - [Lojban - The Incomplete Lojban Language](https://la-lojban.github.io/uncll/romoi/xhtml_section_chunks/index.html "Lojban - The Incomplete Lojban Language") - The community version of the Complete lojban language. Single html page version: https://la-lojban.github.io/uncll/romoi/xhtml_no_chunks/. Project on GitHub (PDF/ePub downloads and diffs from the official CLL): https://github.com/La-Lojban/uncll
-- [lojban.org](https://mw.lojban.org/ "lojban.org") - Lojban is a constructed logical language that gives you the capability of talking about everything with no ambiguity
 
 ## mail client
 - [aerc](https://aerc-mail.org/ "aerc") - CLI mail client
@@ -616,6 +622,9 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## time tracker
 - [watson](https://github.com/TailorDev/Watson "watson") - CLI minimal tool to track your time
+
+## toki pona
+- [toki pona](https://tokipona.org/ "toki pona") - a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought
 
 ## type speed
 - [monkeytype.com](https://monkeytype.com/ "monkeytype.com") - Website for testing your typing speed in many languages (including programming languages) and getting stats
