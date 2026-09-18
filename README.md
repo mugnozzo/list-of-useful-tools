@@ -176,6 +176,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## database manager
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
 
+## decentralized
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
+
 ## desktop publishing
 - [scribus](https://www.scribus.net/ "scribus") - publishing software
 
@@ -249,6 +253,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [librewolf](https://librewolf.net/ "librewolf") - fork of Firefox, focused on privacy, security and freedom
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
 - [mastodon](https://joinmastodon.org/ "mastodon") - Social network part of the Fediverse and name of the software that run the social network service
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
 - [midnight commander](https://midnight-commander.org/ "midnight commander") - Command line, orthodox file manager
 - [mpv](https://mpv.io/ "mpv") - A really cool and simple media player
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
@@ -257,6 +262,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
 - [ranger](https://ranger.github.io/ "ranger") - Command line file manager
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
@@ -452,6 +458,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [ncmpc](https://github.com/MusicPlayerDaemon/ncmpc "ncmpc") - curses client for the Music Player Daemon
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp "ncmpcpp") - featureful ncurses based MPD client inspired by ncmpc
 
+## mesh network
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
+
 ## mobile app
 - [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
 
@@ -470,6 +480,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## mysql
 - [adminer](https://www.adminer.org/ "adminer") - a database manager in a single php file (like phpMyAdmin but lighter)
+
+## network
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 
 ## no gui
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
@@ -504,6 +518,8 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## protocol
 - [ipfs](https://ipfs.tech/ "ipfs") - InterPlanetary File System - A peer-to-peer hypermedia protocol
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 
 ## python
 - [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/ "beautifulsoup") - python library for getting structured data from HTML/XML (good for web scraping)
@@ -528,6 +544,8 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## security
 - [haveibeenpwned.com](https://haveibeenpwned.com/ "haveibeenpwned.com") - A website where you can enter your e-mail address and see if some of your personal data could have been compromised by a data breach
+- [meshtastic](https://meshtastic.org/ "meshtastic") - open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required
+- [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
 
 ## social network

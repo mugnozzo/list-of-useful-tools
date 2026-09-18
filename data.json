@@ -716,6 +716,19 @@
     ]
   },
   {
+    "name": "meshtastic",
+    "url": "https://meshtastic.org/",
+    "description": "open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required",
+    "tags": [
+      "decentralized",
+      "floss",
+      "mesh network",
+      "network",
+      "protocol",
+      "security"
+    ]
+  },
+  {
     "name": "midnight commander",
     "url": "https://midnight-commander.org/",
     "description": "Command line, orthodox file manager",
@@ -986,6 +999,19 @@
       "language learning",
       "languages",
       "learning"
+    ]
+  },
+  {
+    "name": "reticulum",
+    "url": "https://reticulum.network/",
+    "description": "cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required",
+    "tags": [
+      "decentralized",
+      "floss",
+      "mesh network",
+      "network",
+      "protocol",
+      "security"
     ]
   },
   {
