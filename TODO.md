@@ -1,8 +1,10 @@
 # TODO
 
-- generate static md from data
+## misc
 - improve style
 - recheck all links and missing ones
+
+## items to add
 - add topster
 - add osmand
 - add nongnu.org
@@ -17,3 +19,5 @@
 - add https://arcticworldarchive.org/
 - add vial
 - add tor
+- reticulum - https://reticulum.network/
+- meshtastic - https://meshtastic.org/
