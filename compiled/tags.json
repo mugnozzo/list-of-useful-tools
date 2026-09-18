@@ -112,6 +112,7 @@
     "ssh",
     "suckless",
     "terminal",
+    "terminal multiplexer",
     "text editor",
     "text manipulation",
     "tiling",
@@ -133,5 +134,5 @@
     "window manager",
     "work-tool"
   ],
-  "generated_at": "2026-09-18T16:46:18Z"
+  "generated_at": "2026-09-18T16:59:43Z"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 160,
+  "count": 163,
   "items": [
     {
       "name": "activitywatch",
@@ -976,6 +976,18 @@
       "search": "openstreetmaps a website where you can navigate a map of the entire planet floss gps gpx geolocation map"
     },
     {
+      "name": "pandoc",
+      "url": "https://pandoc.org/",
+      "description": "universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx",
+      "tags": [
+        "cli",
+        "floss",
+        "markdown",
+        "text manipulation"
+      ],
+      "search": "pandoc universal document converter, transforms files between markup and document formats such as markdown, html, latex, pdf, and docx cli floss markdown text manipulation"
+    },
+    {
       "name": "perchance",
       "url": "https://perchance.org/",
       "description": "a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators",
@@ -1183,6 +1195,17 @@
         "linux"
       ],
       "search": "scrcpy a tool to project your android smartphone screen on your pc and interact with it with keyboard and mouse floss android linux"
+    },
+    {
+      "name": "screen",
+      "url": "https://www.gnu.org/software/screen/",
+      "description": "GNU terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window",
+      "tags": [
+        "cli",
+        "floss",
+        "terminal multiplexer"
+      ],
+      "search": "screen gnu terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window cli floss terminal multiplexer"
     },
     {
       "name": "scribus",
@@ -1471,9 +1494,11 @@
       "url": "https://github.com/tmux/tmux",
       "description": "CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)",
       "tags": [
-        "cli"
+        "cli",
+        "floss",
+        "terminal multiplexer"
       ],
-      "search": "tmux cli terminal multiplexer. it allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-gui session) cli"
+      "search": "tmux cli terminal multiplexer. it allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-gui session) cli floss terminal multiplexer"
     },
     {
       "name": "transfer.sh",
@@ -1665,6 +1690,17 @@
       "search": "zbar linux cli application and library for reading bar codes from cameras and images cli barcode linux"
     },
     {
+      "name": "zellij",
+      "url": "https://zellij.dev/",
+      "description": "terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support",
+      "tags": [
+        "cli",
+        "floss",
+        "terminal multiplexer"
+      ],
+      "search": "zellij terminal workspace and multiplexer written in rust, with a discoverable ui, layouts, and plugin support cli floss terminal multiplexer"
+    },
+    {
       "name": "zoxide",
       "url": "https://github.com/ajeetdsouza/zoxide",
       "description": "Smart command to jump quickly to a directory, based on \"frecency\"",
@@ -1675,5 +1711,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-18T16:46:18Z"
+  "generated_at": "2026-09-18T16:59:43Z"
 }

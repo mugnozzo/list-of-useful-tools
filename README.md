@@ -128,6 +128,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
 - [nmap](https://nmap.org/ "nmap") - scan IP ranges on arbitrary ports and get info on open ports
 - [nnn](https://github.com/jarun/nnn "nnn") - Command line file manager
+- [pandoc](https://pandoc.org/ "pandoc") - universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx
 - [poke](https://www.gnu.org/software/poke/ "poke") - CLI tool to edit binary files
 - [pv](https://www.ivarch.com/programs/pv.shtml "pv") - linux CLI command to manage the progress of data
 - [qrencode](https://github.com/fukuchi/libqrencode "qrencode") - linux CLI tool to create QR Codes and save them in various bitmap, vector graphics format or print it in ascii
@@ -136,6 +137,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [rsync](https://rsync.samba.org/ "rsync") - Sync files between two folders
 - [rubberband](https://breakfastquay.com/rubberband/ "rubberband") - Command line tool to time-stretch and pitch-shift audio files
+- [screen](https://www.gnu.org/software/screen/ "screen") - GNU terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [sox](https://github.com/chirlu/sox "sox") - Sound eXchange, the Swiss Army knife of audio manipulation
 - [sprunge.us](https://sprunge.us/ "sprunge.us") - pastebin accessible via CLI ([code on github](http://github.com/rupa/sprunge))
@@ -156,6 +158,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [xev](https://gitlab.freedesktop.org/xorg/app/xev "xev") - Bash command to detect and print X events (mouse movements and clicks, keyboard events, ...)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp") - CLI command to download videos from Youtube and other video platforms. Fork of youtube-dl (https://github.com/ytdl-org/youtube-dl)
 - [zbar](https://github.com/mchehab/zbar "zbar") - linux CLI application and library for reading bar codes from cameras and images
+- [zellij](https://zellij.dev/ "zellij") - terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support
 - [zoxide](https://github.com/ajeetdsouza/zoxide "zoxide") - Smart command to jump quickly to a directory, based on "frecency"
 
 ## clipboard
@@ -267,17 +270,21 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [nnn](https://github.com/jarun/nnn "nnn") - Command line file manager
 - [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
+- [pandoc](https://pandoc.org/ "pandoc") - universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
 - [ranger](https://ranger.github.io/ "ranger") - Command line file manager
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
+- [screen](https://www.gnu.org/software/screen/ "screen") - GNU terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [sox](https://github.com/chirlu/sox "sox") - Sound eXchange, the Swiss Army knife of audio manipulation
+- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
 - [ventoy](https://www.ventoy.net/en/index.html "ventoy") - A Free and Open Source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/Ventoy)
 - [vidir](https://github.com/trapd00r/vidir "vidir") - A CLI tool to manage filenames (or even delete files) inside a text editor.
 - [vifm](https://github.com/vifm/vifm "vifm") - Command line file manager
+- [zellij](https://zellij.dev/ "zellij") - terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support
 - [zoxide](https://github.com/ajeetdsouza/zoxide "zoxide") - Smart command to jump quickly to a directory, based on "frecency"
 
 ## font
@@ -454,6 +461,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## markdown
 - [ghostwriter](https://github.com/KDE/ghostwriter "ghostwriter") - An editor for markdown files
+- [pandoc](https://pandoc.org/ "pandoc") - universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx
 
 ## media manipulation
 - [ffmpeg](https://ffmpeg.org/ "ffmpeg") - Command line tool to manage/convert video/audio/subtitles streams
@@ -584,6 +592,11 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [st](https://st.suckless.org/ "st") - Simple Terminal for X made by the suckless team (https://suckless.org/)
 - [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
 
+## terminal multiplexer
+- [screen](https://www.gnu.org/software/screen/ "screen") - GNU terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window
+- [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
+- [zellij](https://zellij.dev/ "zellij") - terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support
+
 ## text editor
 - [emacs](https://www.gnu.org/software/emacs/ "emacs") - An interactive CLI/GUI text editor
 - [ghostwriter](https://github.com/KDE/ghostwriter "ghostwriter") - An editor for markdown files
@@ -593,6 +606,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## text manipulation
 - [awk](http://awklang.org/ "awk") - CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)
 - [grep](https://www.gnu.org/software/grep/ "grep") - CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)
+- [pandoc](https://pandoc.org/ "pandoc") - universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx
 - [ripgrep](https://github.com/BurntSushi/ripgrep "ripgrep") - Kinda "grep" like tool, but automatically searches recursively inside the files in the current directory and the default search string is a regex pattern
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 

@@ -881,6 +881,17 @@
     ]
   },
   {
+    "name": "pandoc",
+    "url": "https://pandoc.org/",
+    "description": "universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx",
+    "tags": [
+      "cli",
+      "floss",
+      "markdown",
+      "text manipulation"
+    ]
+  },
+  {
     "name": "perchance",
     "url": "https://perchance.org/",
     "description": "a collection of AI-powered random generators made by the community, including text-to-image, story, and character generators",
@@ -1067,6 +1078,16 @@
       "floss",
       "android",
       "linux"
+    ]
+  },
+  {
+    "name": "screen",
+    "url": "https://www.gnu.org/software/screen/",
+    "description": "GNU terminal multiplexer, lets you run and detach/reattach multiple shell sessions inside a single terminal window",
+    "tags": [
+      "cli",
+      "floss",
+      "terminal multiplexer"
     ]
   },
   {
@@ -1329,7 +1350,9 @@
     "url": "https://github.com/tmux/tmux",
     "description": "CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)",
     "tags": [
-      "cli"
+      "cli",
+      "floss",
+      "terminal multiplexer"
     ]
   },
   {
@@ -1501,6 +1524,16 @@
       "cli",
       "barcode",
       "linux"
+    ]
+  },
+  {
+    "name": "zellij",
+    "url": "https://zellij.dev/",
+    "description": "terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support",
+    "tags": [
+      "cli",
+      "floss",
+      "terminal multiplexer"
     ]
   },
   {
