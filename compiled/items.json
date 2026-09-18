@@ -1,5 +1,5 @@
 {
-  "count": 158,
+  "count": 160,
   "items": [
     {
       "name": "activitywatch",
@@ -794,6 +794,20 @@
       "search": "mastodon social network part of the fediverse and name of the software that run the social network service fediverse floss social network"
     },
     {
+      "name": "meshtastic",
+      "url": "https://meshtastic.org/",
+      "description": "open source firmware and protocol for cheap LoRa radios, letting them form an encrypted, long-range mesh network for text messaging and GPS position sharing with no internet or cell service required",
+      "tags": [
+        "decentralized",
+        "floss",
+        "mesh network",
+        "network",
+        "protocol",
+        "security"
+      ],
+      "search": "meshtastic open source firmware and protocol for cheap lora radios, letting them form an encrypted, long-range mesh network for text messaging and gps position sharing with no internet or cell service required decentralized floss mesh network network protocol security"
+    },
+    {
       "name": "midnight commander",
       "url": "https://midnight-commander.org/",
       "description": "Command line, orthodox file manager",
@@ -1095,6 +1109,20 @@
         "learning"
       ],
       "search": "refold a guide to language learning; refold explains a method to learn a foreign language from scratch to fluency language learning languages learning"
+    },
+    {
+      "name": "reticulum",
+      "url": "https://reticulum.network/",
+      "description": "cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required",
+      "tags": [
+        "decentralized",
+        "floss",
+        "mesh network",
+        "network",
+        "protocol",
+        "security"
+      ],
+      "search": "reticulum cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (lora, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required decentralized floss mesh network network protocol security"
     },
     {
       "name": "ripgrep",
@@ -1633,5 +1661,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-07T09:45:32Z"
+  "generated_at": "2026-09-18T16:25:32Z"
 }

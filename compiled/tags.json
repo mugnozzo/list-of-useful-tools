@@ -28,6 +28,7 @@
     "comparison",
     "database",
     "database manager",
+    "decentralized",
     "desktop publishing",
     "dictionary",
     "display locker",
@@ -79,12 +80,14 @@
     "markdown",
     "media manipulation",
     "media player",
+    "mesh network",
     "mobile app",
     "mouse",
     "multimedia",
     "music",
     "music player",
     "mysql",
+    "network",
     "no gui",
     "operating system",
     "paid",
@@ -130,5 +133,5 @@
     "window manager",
     "work-tool"
   ],
-  "generated_at": "2026-09-07T09:45:32Z"
+  "generated_at": "2026-09-18T16:25:32Z"
 }
