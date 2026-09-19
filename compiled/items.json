@@ -1,5 +1,5 @@
 {
-  "count": 164,
+  "count": 167,
   "items": [
     {
       "name": "activitywatch",
@@ -980,6 +980,20 @@
       "search": "openstreetmaps a website where you can navigate a map of the entire planet floss gps gpx geolocation map"
     },
     {
+      "name": "osmand",
+      "url": "https://osmand.net/",
+      "description": "offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection",
+      "tags": [
+        "android",
+        "app",
+        "floss",
+        "geolocation",
+        "gps",
+        "map"
+      ],
+      "search": "osmand offline maps and turn-by-turn navigation app built on openstreetmap data, works fully without an internet connection android app floss geolocation gps map"
+    },
+    {
       "name": "pandoc",
       "url": "https://pandoc.org/",
       "description": "universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx",
@@ -1516,6 +1530,19 @@
       "search": "toki pona a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought conlang languages toki pona"
     },
     {
+      "name": "tor",
+      "url": "https://www.torproject.org/",
+      "description": "anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis",
+      "tags": [
+        "anonymity",
+        "floss",
+        "network",
+        "security",
+        "web browser"
+      ],
+      "search": "tor anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis anonymity floss network security web browser"
+    },
+    {
       "name": "transfer.sh",
       "url": "https://transfer.sh",
       "description": "Online tool to transfer files from/to command line or browser (code on github: https://github.com/dutchcoders/transfer.sh; web client: https://github.com/dutchcoders/transfer.sh-web)",
@@ -1554,6 +1581,17 @@
         "floss"
       ],
       "search": "ventoy a free and open source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/ventoy) floss boot"
+    },
+    {
+      "name": "vial",
+      "url": "https://get.vial.today/",
+      "description": "open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware",
+      "tags": [
+        "app",
+        "floss",
+        "keyboard"
+      ],
+      "search": "vial open source, cross-platform configurator for qmk keyboards, lets you remap keys and layers live without reflashing firmware app floss keyboard"
     },
     {
       "name": "vidir",
@@ -1726,5 +1764,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-18T20:56:00Z"
+  "generated_at": "2026-09-19T19:18:37Z"
 }

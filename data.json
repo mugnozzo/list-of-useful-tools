@@ -885,6 +885,19 @@
     ]
   },
   {
+    "name": "osmand",
+    "url": "https://osmand.net/",
+    "description": "offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection",
+    "tags": [
+      "android",
+      "app",
+      "floss",
+      "geolocation",
+      "gps",
+      "map"
+    ]
+  },
+  {
     "name": "pandoc",
     "url": "https://pandoc.org/",
     "description": "universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx",
@@ -1370,6 +1383,18 @@
     ]
   },
   {
+    "name": "tor",
+    "url": "https://www.torproject.org/",
+    "description": "anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis",
+    "tags": [
+      "anonymity",
+      "floss",
+      "network",
+      "security",
+      "web browser"
+    ]
+  },
+  {
     "name": "transfer.sh",
     "url": "https://transfer.sh",
     "description": "Online tool to transfer files from/to command line or browser (code on github: https://github.com/dutchcoders/transfer.sh; web client: https://github.com/dutchcoders/transfer.sh-web)",
@@ -1403,6 +1428,16 @@
     "tags": [
       "floss",
       "boot"
+    ]
+  },
+  {
+    "name": "vial",
+    "url": "https://get.vial.today/",
+    "description": "open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware",
+    "tags": [
+      "app",
+      "floss",
+      "keyboard"
     ]
   },
   {

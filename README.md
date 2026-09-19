@@ -38,6 +38,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## android
 - [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "black player") - app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - a tool to project your Android smartphone screen on your PC  and interact with it with keyboard and mouse
 - [tasker](https://tasker.joaoapps.com/ "tasker") - awesome Android app that lets you run tasks when events are triggered
 - [termux](https://github.com/termux/termux-app "termux") - emulate a Linux CLI on your Android smartphone
@@ -45,15 +46,18 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 
 ## anonymity
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
+- [tor](https://www.torproject.org/ "tor") - anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis
 
 ## app
 - [assimil](https://www.assimil.com/ "assimil") - a method/website with book and audio to learn foreign languages by listening/reading everyday conversation and doing exercises to fix in your mind the concepts present in the daily lessons
 - [black player](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree "black player") - app to listen music on your smartphone (free and paid versions available; paid version: https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex)
 - [clozemaster](https://www.clozemaster.com/ "clozemaster") - a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it uses TTS to hear pronunciation and a learn-and-review method; it has both free and paid versions
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 - [pimsleur](https://www.pimsleur.com/ "pimsleur") - A method/website/app to learn foreign languages by listening and repeating everyday conversation and focusing on pronunciation
 - [speakly](https://speakly.me/en "speakly") - a method/website/app to learn foreign languages (it currently has 8 languages available) by learning the 4000 most frequent words/expressions/sentences in the target languages with listening/speaking/flashcard exercises
 - [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
 - [tasker](https://tasker.joaoapps.com/ "tasker") - awesome Android app that lets you run tasks when events are triggered
+- [vial](https://get.vial.today/ "vial") - open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware
 
 ## arch linux
 - [arch linux](https://archlinux.org/ "arch linux") - A lightweight, bleeding edge, minimal, rolling release, KISS, linux distro.
@@ -277,6 +281,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [nnn](https://github.com/jarun/nnn "nnn") - Command line file manager
 - [obs](https://obsproject.com/ "obs") - Cool software with GUI interface for recording/streaming videos
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 - [pandoc](https://pandoc.org/ "pandoc") - universal document converter, transforms files between markup and document formats such as markdown, HTML, LaTeX, PDF, and docx
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
 - [ranger](https://ranger.github.io/ "ranger") - Command line file manager
@@ -287,8 +292,10 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [sed](https://www.gnu.org/software/sed/ "sed") - Non-interactive advanced text editor that allows you to manipulate files with commands and regular expressions
 - [sox](https://github.com/chirlu/sox "sox") - Sound eXchange, the Swiss Army knife of audio manipulation
 - [tmux](https://github.com/tmux/tmux "tmux") - CLI terminal multiplexer. It allows you to manage multiple shell tabs/panes into a single terminal window (or into a single tty no-GUI session)
+- [tor](https://www.torproject.org/ "tor") - anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis
 - [ttyplot](https://github.com/tenox7/ttyplot "ttyplot") - ASCII-based CLI tool that plots data from stdin
 - [ventoy](https://www.ventoy.net/en/index.html "ventoy") - A Free and Open Source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/Ventoy)
+- [vial](https://get.vial.today/ "vial") - open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware
 - [vidir](https://github.com/trapd00r/vidir "vidir") - A CLI tool to manage filenames (or even delete files) inside a text editor.
 - [vifm](https://github.com/vifm/vifm "vifm") - Command line file manager
 - [zellij](https://zellij.dev/ "zellij") - terminal workspace and multiplexer written in Rust, with a discoverable UI, layouts, and plugin support
@@ -333,6 +340,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [gpsvisualizer.com](https://www.gpsvisualizer.com/ "gpsvisualizer.com") - A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...
 - [gpxsee](https://www.gpxsee.org/ "gpxsee") - Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (code on github: https://github.com/tumic0/GPXSee)
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 
 ## gif
 - [cameron's world](https://www.cameronsworld.net/ "cameron's world") - A web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009). I recommend to turn on sounds with the top-right button.
@@ -344,6 +352,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [gpsvisualizer.com](https://www.gpsvisualizer.com/ "gpsvisualizer.com") - A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...
 - [gpxsee](https://www.gpxsee.org/ "gpxsee") - Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (code on github: https://github.com/tumic0/GPXSee)
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 
 ## gpx
 - [gpsvisualizer.com](https://www.gpsvisualizer.com/ "gpsvisualizer.com") - A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...
@@ -389,6 +398,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [jq](https://github.com/stedolan/jq "jq") - JSON processor: process JSON from stdin/file
 
 ## keyboard
+- [vial](https://get.vial.today/ "vial") - open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware
 - [xev](https://gitlab.freedesktop.org/xorg/app/xev "xev") - Bash command to detect and print X events (mouse movements and clicks, keyboard events, ...)
 
 ## language learning
@@ -464,6 +474,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [gpsvisualizer.com](https://www.gpsvisualizer.com/ "gpsvisualizer.com") - A website where you can process geographic data, visualize it, convert from/to different formats, add height to coordinates, ...
 - [gpxsee](https://www.gpxsee.org/ "gpxsee") - Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (code on github: https://github.com/tumic0/GPXSee)
 - [openstreetmaps](https://www.openstreetmap.org/ "openstreetmaps") - A website where you can navigate a map of the entire planet
+- [osmand](https://osmand.net/ "osmand") - offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection
 - [thetruesize.com](https://thetruesize.com "thetruesize.com") - A map where you can drag countries to see their real dimensions compared. Distorsions of a world map normally change a lot the size of a country, especially when they are far from the equator. Dragging them at the sami latitude restores their actual size.
 - [what3words](https://what3words.com/ "what3words") - A website that allows you to describe any place in the world with 3 words. It divides the whole world in 3x3 squares and identify each square with 3 words.
 
@@ -513,6 +524,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [ssh tunnels](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ "ssh tunnels") - an article which explain how the 3 types of tunnels work and how to use them
 - [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
+- [tor](https://www.torproject.org/ "tor") - anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis
 
 ## no gui
 - [neovim](https://neovim.io/ "neovim") - CLI advanced but very lightweight and simple text editor (code on github: https://github.com/neovim/neovim). It's an improved fork of vim
@@ -577,6 +589,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [nmap](https://nmap.org/ "nmap") - scan IP ranges on arbitrary ports and get info on open ports
 - [reticulum](https://reticulum.network/ "reticulum") - cryptography-based networking stack for building resilient, encrypted mesh networks over any medium (LoRa, packet radio, wifi, or the internet), with no fixed infrastructure or central authority required
 - [tails](https://tails.boum.org/ "tails") - A portable distro, focused on privacy and protection against surveillance and censorship
+- [tor](https://www.torproject.org/ "tor") - anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis
 
 ## social network
 - [mastodon](https://joinmastodon.org/ "mastodon") - Social network part of the Fediverse and name of the software that run the social network service
@@ -669,6 +682,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [librewolf](https://librewolf.net/ "librewolf") - fork of Firefox, focused on privacy, security and freedom
 - [links](http://links.twibright.com/ "links") - linux CLI text-based internet browser
 - [qutebrowser](https://qutebrowser.org/ "qutebrowser") - minimal, vim-oriented browser
+- [tor](https://www.torproject.org/ "tor") - anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis
 
 ## web gui
 - [syncthing](https://syncthing.net/ "syncthing") - Keep folder pairs synchronized on different devices (available for different operative systems, including Android)
