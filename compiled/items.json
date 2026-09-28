@@ -1,5 +1,5 @@
 {
-  "count": 164,
+  "count": 169,
   "items": [
     {
       "name": "activitywatch",
@@ -260,6 +260,16 @@
       "search": "clozemaster a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it uses tts to hear pronunciation and a learn-and-review method; it has both free and paid versions app language learning languages learning"
     },
     {
+      "name": "codeberg",
+      "url": "https://codeberg.org/",
+      "description": "non-profit, community-run git hosting service powered by Forgejo, an alternative to GitHub/GitLab for free and open source projects",
+      "tags": [
+        "floss",
+        "git"
+      ],
+      "search": "codeberg non-profit, community-run git hosting service powered by forgejo, an alternative to github/gitlab for free and open source projects floss git"
+    },
+    {
       "name": "commandlinefu.com",
       "url": "https://www.commandlinefu.com/",
       "description": "dynamic list of useful CL commands",
@@ -462,6 +472,16 @@
         "linux"
       ],
       "search": "foliate a lightweight ebook reader for linux (code on github: https://github.com/johnfactotum/foliate). ebook-reader floss linux"
+    },
+    {
+      "name": "forgejo",
+      "url": "https://forgejo.org/",
+      "description": "lightweight, self-hostable git forge software (fork of Gitea) with issues, pull requests, and a package registry; powers Codeberg",
+      "tags": [
+        "floss",
+        "git"
+      ],
+      "search": "forgejo lightweight, self-hostable git forge software (fork of gitea) with issues, pull requests, and a package registry; powers codeberg floss git"
     },
     {
       "name": "freecad",
@@ -978,6 +998,20 @@
         "map"
       ],
       "search": "openstreetmaps a website where you can navigate a map of the entire planet floss gps gpx geolocation map"
+    },
+    {
+      "name": "osmand",
+      "url": "https://osmand.net/",
+      "description": "offline maps and turn-by-turn navigation app built on OpenStreetMap data, works fully without an internet connection",
+      "tags": [
+        "android",
+        "app",
+        "floss",
+        "geolocation",
+        "gps",
+        "map"
+      ],
+      "search": "osmand offline maps and turn-by-turn navigation app built on openstreetmap data, works fully without an internet connection android app floss geolocation gps map"
     },
     {
       "name": "pandoc",
@@ -1516,6 +1550,19 @@
       "search": "toki pona a minimalist constructed language built from about 120 core words, designed around simplicity and clarity of thought conlang languages toki pona"
     },
     {
+      "name": "tor",
+      "url": "https://www.torproject.org/",
+      "description": "anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis",
+      "tags": [
+        "anonymity",
+        "floss",
+        "network",
+        "security",
+        "web browser"
+      ],
+      "search": "tor anonymity network and browser that routes traffic through multiple relays to hide your location and usage from surveillance and traffic analysis anonymity floss network security web browser"
+    },
+    {
       "name": "transfer.sh",
       "url": "https://transfer.sh",
       "description": "Online tool to transfer files from/to command line or browser (code on github: https://github.com/dutchcoders/transfer.sh; web client: https://github.com/dutchcoders/transfer.sh-web)",
@@ -1554,6 +1601,17 @@
         "floss"
       ],
       "search": "ventoy a free and open source tool to create bootable drives that allow you to choose between more than one image to boot (git repo: https://github.com/ventoy/ventoy) floss boot"
+    },
+    {
+      "name": "vial",
+      "url": "https://get.vial.today/",
+      "description": "open source, cross-platform configurator for QMK keyboards, lets you remap keys and layers live without reflashing firmware",
+      "tags": [
+        "app",
+        "floss",
+        "keyboard"
+      ],
+      "search": "vial open source, cross-platform configurator for qmk keyboards, lets you remap keys and layers live without reflashing firmware app floss keyboard"
     },
     {
       "name": "vidir",
@@ -1726,5 +1784,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-18T20:56:00Z"
+  "generated_at": "2026-09-27T07:56:41Z"
 }
