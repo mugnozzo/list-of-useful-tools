@@ -260,6 +260,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 ## floss
 - [awk](http://awklang.org/ "awk") - CLI command and language to manipulate text, extract data, with special functions to manage "columns" in structured data (e.g. CSV)
 - [blender](https://blender.org "blender") - Advanced software for 3d modeling, animating, shading/texturing/rendering, rigging, basic video editing, motion tracking, etc...
+- [codeberg](https://codeberg.org/ "codeberg") - non-profit, community-run git hosting service powered by Forgejo, an alternative to GitHub/GitLab for free and open source projects
 - [emacs](https://www.gnu.org/software/emacs/ "emacs") - An interactive CLI/GUI text editor
 - [epy-reader](https://github.com/wustho/epy "epy-reader") - A CLI ebook reader. Supports, epub, mobi and other formats.
 - [etherpad](https://github.com/ether/etherpad-lite "etherpad") - A real-time, collaborative, web-based document editor.
@@ -267,6 +268,7 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [ffmpeg](https://ffmpeg.org/ "ffmpeg") - Command line tool to manage/convert video/audio/subtitles streams
 - [flamenco](https://flamenco.blender.org/ "flamenco") - Render management software for Blender
 - [foliate](https://johnfactotum.github.io/foliate/ "foliate") - A lightweight ebook reader for Linux (code on github: https://github.com/johnfactotum/foliate).
+- [forgejo](https://forgejo.org/ "forgejo") - lightweight, self-hostable git forge software (fork of Gitea) with issues, pull requests, and a package registry; powers Codeberg
 - [gimp](https://www.gimp.org/ "gimp") - Advanced GUI image editor
 - [gpxsee](https://www.gpxsee.org/ "gpxsee") - Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats (code on github: https://github.com/tumic0/GPXSee)
 - [grep](https://www.gnu.org/software/grep/ "grep") - CLI command to process a text (from a file or stdin) and print only lines that match an expression (it can be a regexp)
@@ -346,6 +348,8 @@ This is a list of tools that I find useful. Most of them are FLOSS, minimal and 
 - [cameron's world](https://www.cameronsworld.net/ "cameron's world") - A web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009). I recommend to turn on sounds with the top-right button.
 
 ## git
+- [codeberg](https://codeberg.org/ "codeberg") - non-profit, community-run git hosting service powered by Forgejo, an alternative to GitHub/GitLab for free and open source projects
+- [forgejo](https://forgejo.org/ "forgejo") - lightweight, self-hostable git forge software (fork of Gitea) with issues, pull requests, and a package registry; powers Codeberg
 - [fugitive](https://github.com/tpope/vim-fugitive "fugitive") - vim plugin to manage git projects
 
 ## gps

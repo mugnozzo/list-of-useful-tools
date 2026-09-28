@@ -1,5 +1,5 @@
 {
-  "count": 167,
+  "count": 169,
   "items": [
     {
       "name": "activitywatch",
@@ -260,6 +260,16 @@
       "search": "clozemaster a method/website/app to train and learn a foreign language with fill-in-blanks sentences; it uses tts to hear pronunciation and a learn-and-review method; it has both free and paid versions app language learning languages learning"
     },
     {
+      "name": "codeberg",
+      "url": "https://codeberg.org/",
+      "description": "non-profit, community-run git hosting service powered by Forgejo, an alternative to GitHub/GitLab for free and open source projects",
+      "tags": [
+        "floss",
+        "git"
+      ],
+      "search": "codeberg non-profit, community-run git hosting service powered by forgejo, an alternative to github/gitlab for free and open source projects floss git"
+    },
+    {
       "name": "commandlinefu.com",
       "url": "https://www.commandlinefu.com/",
       "description": "dynamic list of useful CL commands",
@@ -462,6 +472,16 @@
         "linux"
       ],
       "search": "foliate a lightweight ebook reader for linux (code on github: https://github.com/johnfactotum/foliate). ebook-reader floss linux"
+    },
+    {
+      "name": "forgejo",
+      "url": "https://forgejo.org/",
+      "description": "lightweight, self-hostable git forge software (fork of Gitea) with issues, pull requests, and a package registry; powers Codeberg",
+      "tags": [
+        "floss",
+        "git"
+      ],
+      "search": "forgejo lightweight, self-hostable git forge software (fork of gitea) with issues, pull requests, and a package registry; powers codeberg floss git"
     },
     {
       "name": "freecad",
@@ -1764,5 +1784,5 @@
       "search": "zoxide smart command to jump quickly to a directory, based on \"frecency\" cli floss"
     }
   ],
-  "generated_at": "2026-09-19T19:18:37Z"
+  "generated_at": "2026-09-27T07:56:41Z"
 }

@@ -234,6 +234,15 @@
     ]
   },
   {
+    "name": "codeberg",
+    "url": "https://codeberg.org/",
+    "description": "non-profit, community-run git hosting service powered by Forgejo, an alternative to GitHub/GitLab for free and open source projects",
+    "tags": [
+      "floss",
+      "git"
+    ]
+  },
+  {
     "name": "commandlinefu.com",
     "url": "https://www.commandlinefu.com/",
     "description": "dynamic list of useful CL commands",
@@ -415,6 +424,15 @@
       "ebook-reader",
       "floss",
       "linux"
+    ]
+  },
+  {
+    "name": "forgejo",
+    "url": "https://forgejo.org/",
+    "description": "lightweight, self-hostable git forge software (fork of Gitea) with issues, pull requests, and a package registry; powers Codeberg",
+    "tags": [
+      "floss",
+      "git"
     ]
   },
   {
